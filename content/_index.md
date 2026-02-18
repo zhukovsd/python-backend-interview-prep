@@ -1,14 +1,14 @@
 ---
 title: Главная страница
-date: 2024-10-03T23:15:53+07:00
+date: 2026-02-17T23:15:53+07:00
 ---
 
 # IT Ментор | Java методичка
 
-Добро пожаловать! Это методичка от сообщества [IT Ментор | Сергей Жуков](https://t.me/zhukovsd_it_chat) для подготовки к собеседованиям на позицию Java разработчика.
+Добро пожаловать! Это методичка от сообщества [IT Ментор | Сергей Жуков](https://t.me/zhukovsd_it_chat) для подготовки к собеседованиям на позицию Backend Python разработчика.
 
 Другие наши ресурсы:
-- [Java роадмап](https://zhukovsd.github.io/java-backend-learning-course/)
+- [Python роадмап](https://zhukovsd.github.io/python-backend-learning-course/)
 - [Telegram канал](https://t.me/zhukovsd_it_mentor)
 - [YouTube канал](https://youtube.com/@zhukovsd_it_mentor)
 - [Чат](https://t.me/+8YGzqvJOndg1Yjky) для проведения мок собеседований
@@ -17,30 +17,30 @@ date: 2024-10-03T23:15:53+07:00
 
 Главная задача, которую решает методичка - помощь в подготовке к **актуальным** вопросам. Всего не запомнишь, количество вопросов по теории может достигать сотен. В нашей методичке более 300 вопросов, но всего 85 из них встречаются хотя бы на каждом десятом собеседовании.
 
-Рядом с каждым [техническим вопросом](https://zhukovsd.github.io/java-backend-interview-prep/questions/) в методичке отображается его популярность на собеседованиях.
+Рядом с каждым [техническим вопросом](https://zhukovsd.github.io/python-backend-interview-prep/questions/) в методичке отображается его популярность на собеседованиях.
 
-Это значение автоматически подсчитывается на основе таймкодов к коллекции собеседований сообщества. На 15 декабря 2024 в коллекции 110 собеседований.
+Это значение автоматически подсчитывается на основе таймкодов к коллекции собеседований сообщества. На 18 февраля 2026 в коллекции 110 собеседований.
 
 ## Что внутри
 
-- [Технические вопросы](https://zhukovsd.github.io/java-backend-interview-prep/questions/) с % популярности каждого.
+- [Технические вопросы](https://zhukovsd.github.io/python-backend-interview-prep/questions/) с % популярности каждого.
 - Ответы на технические вопросы - каждый вопрос по ссылке выше это ссылка на ответ.
-- [Коллекция](https://zhukovsd.github.io/java-backend-interview-prep/work-experience/) вопросов про опыт работы, встречаются на 90% собеседований.
-- [Вопросы на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/), встречаются на 62% собеседований.
-- [Задачи на лайвкодинг](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/) по Java, SQL, Stream API, рефакторингу с реальных собеседований. Встречаются на 51% собеседований.
+- [Коллекция](https://zhukovsd.github.io/python-backend-interview-prep/work-experience/) вопросов про опыт работы, встречаются на 90% собеседований.
+- [Вопросы на подумать](https://zhukovsd.github.io/python-backend-interview-prep/thought-exercises/), встречаются на 62% собеседований.
+- [Задачи на лайвкодинг](https://zhukovsd.github.io/python-backend-interview-prep/livecoding/) с реальных собеседований. Встречаются на 51% собеседований.
 
 ## Как пользоваться
 
 Рекомендуемый план подготовки к собеседованиям:
-1. Идти по темам по порядку, описанному в [списке технических вопросов](https://zhukovsd.github.io/java-backend-interview-prep/questions/).
+1. Идти по темам по порядку, описанному в [списке технических вопросов](https://zhukovsd.github.io/python-backend-interview-prep/questions/).
 2. В рамках каждой темы разбирать вопросы, которые встречаются хотя бы на 5-10% собеседований или чаще. Советую не читать ответы, чтобы их запоммнить, а разбираться самостоятельно, ведя свой собственный конспект.
 3. Прийти в [чат](https://t.me/+8YGzqvJOndg1Yjky) сообщества для подготовки по теории и попросить мок собеседование по одной или нескольким темам.
-4. Пройдя все темы, попрактиковаться с [вопросами на подумать](https://zhukovsd.github.io/java-backend-interview-prep/thought-exercises/) и [лайвкодингом](https://zhukovsd.github.io/java-backend-interview-prep/livecoding/).
+4. Пройдя все темы, попрактиковаться с [вопросами на подумать](https://zhukovsd.github.io/python-backend-interview-prep/thought-exercises/) и [лайвкодингом](https://zhukovsd.github.io/python-backend-interview-prep/livecoding/).
 
 Для полноценного сопровождения поиска работы можете рассмотреть моё [менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/).
 
 ## Как поддержать
 
-- Пулл реквестами к [GitHub репозиторию](https://github.com/zhukovsd/java-backend-interview-prep/) методички с уточнениями ответов на теоретические вопросы
+- Пулл реквестами к [GitHub репозиторию](https://github.com/zhukovsd/python-backend-interview-prep/) методички с уточнениями ответов на теоретические вопросы
 - Активностью в [сообществе](https://t.me/zhukovsd_it_chat)
 - Материально - на [Boosty](https://boosty.to/zhukovsd) или через покупку [платных услуг и продуктов](https://t.me/zhukovsd_it_chat/143340/143341)
