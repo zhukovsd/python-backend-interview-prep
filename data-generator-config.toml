@@ -1,0 +1,74 @@
+repo = "zhukovsd/python-backend-interview-prep"
+
+# absolute path inside docker container
+mount_dir = "/python-backend-interview-prep"
+data_dir = "/data"
+content_dir = "/content"
+
+[hugo.livecoding]
+task_content = '''
++++
+title = '{}'
+bookToC = false
++++
+
+{{< livecoding/answer >}}
+'''
+title_pattern_placeholder = "{}"
+
+[spreadsheet]
+id = "1qVIahkSxHPFEAmMAzNNLvBUD8pe4oaG0fG6A_LZaPoc"
+
+[spreadsheet.main_sheet]
+title = "Сводный лист"
+range = "C4:D"
+question_col_index = 0 # for range C4:D this is column C
+popularity_col_index = 1 # for range C4:D this is column D
+
+[spreadsheet.main_sheet.work_experience]
+filepath = "work-experience.md"
+
+[spreadsheet.tech_answer_sheet]
+title_pattern = "Ответы - {}"
+title_pattern_placeholder = "{}"
+range = "A:B"
+question_col_index = 0 # for range A:B this is column A
+answer_col_index = 1 # for range A:B this is column B
+
+[spreadsheet.livecoding_sheet]
+title = "Лайвкодинг"
+range = "A:E"
+task_col_index = 0 # for range A:E this is column A
+link_col_index = 1 # for range A:E this is column B
+timestamp_col_index = 2 # for range A:E this is column C
+filename_col_index = 3 # for range A:E this is column D
+answer_col_index = 4 # for range A:E this is column E
+
+[spreadsheet.thought_exercise_sheet]
+title = "Вопросы на подумать"
+range = "A:C"
+question_col_index = 0 # for range A:C this is column A
+link_col_index = 1 # for range A:C this is column B
+timestamp_col_index = 2 # for range A:C this is column C
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "ООП"
+answers_filepath = "tech-questions/fundamentals/oop.md"
+
+
+[[spreadsheet.livecoding_sheet.categories]]
+name = "SQL"
+category_filepath = "livecoding/tasks/sql/_index.md"
+task_path_prefix = "livecoding/tasks/sql/"
+
+
+[[spreadsheet.main_sheet.work_experience.categories]]
+name = "Общие вопросы"
+
+[[spreadsheet.main_sheet.work_experience.categories]]
+name = "Опыт с технологиями"
+
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "SQL, базы данных, индексы, ORM и миграции"
+category_filepath = "thought-exercises/sql-databases.md"

@@ -1,0 +1,11 @@
+{{ $dataPath := path.Join .Page.File.Dir .Page.File.BaseFileName }}
+{{ $category := index .Site.Data (split $dataPath "/") }}
+
+{{ range $question := $category.questions }}
+    {{ $text := printf "%d. %s" .id .question }}
+    {{ $anchor := $text | anchorize }}
+
+    <h4 id="{{ $anchor }}">{{ $text }} <a href="#{{ $anchor }}" class="anchor">#</a></h4>
+    <p>{{ .answer | markdownify }}</p>
+    <hr>
+{{end}}

@@ -1,0 +1,31 @@
+{{ $dataDir := path.Clean .Page.File.Dir }}
+
+{{ $categories := slice }}
+
+{{ range $sectionDir, $categoriesData := index .Site.Data (split $dataDir "/") }}
+    {{ range $categoryFileName, $data := $categoriesData }}
+        {{ $id := index $data "category" "id" }}
+        {{ $path := path.Join $dataDir $sectionDir $categoryFileName }}
+
+        {{ $dict := dict "id" $id "path" $path "data" $data }}
+
+        {{ $categories = $categories | append $dict }}
+    {{ end }}
+{{ end }}
+
+{{ $categories = sort $categories "id" "asc" }}
+
+{{ range $dict := $categories }}
+    {{ $category := $dict.data.category }}
+    {{ $categoryPage := $.Site.GetPage $dict.path}}
+    {{ $categoryLink := $categoryPage.RelPermalink }}
+
+    <h2><a href="{{ $categoryLink }}">{{ $category.title }}</a> [{{ $category.popularity }}%]</h2>
+
+    {{ range $question := $dict.data.questions }}
+        {{ $questionAnchor := printf "%d %s" .id .question | anchorize }}
+        {{ $questionLink := print $categoryLink "#" $questionAnchor }}
+
+        <h4>{{ .id }}. <a href="{{ $questionLink }}">{{ .question }}</a> [{{ .popularity }}%]</h4>
+    {{ end }}
+{{ end }}

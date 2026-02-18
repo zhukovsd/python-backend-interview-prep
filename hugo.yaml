@@ -1,0 +1,35 @@
+baseURL: https://zhukovsd.github.io/python-backend-interview-prep/
+title: IT Ментор | Python методичка
+languageCode: ru
+theme : hugo-book
+enableGitInfo: true
+
+params:
+  BookTheme: 'auto'
+  BookSection: '*'
+  BookPortableLinks: true
+  BookRepo: 'https://github.com/zhukovsd/python-backend-interview-prep'
+  BookCommitPath: 'commit'
+  BookEditPath: 'edit/master'
+
+menu:
+  after:
+    - name: "Telegram канал"
+      url: "https://t.me/zhukovsd_it_mentor"
+      weight: 10
+    - name: "Telegram чат"
+      url: "https://t.me/zhukovsd_it_chat"
+      weight: 20
+    - name: "YouTube"
+      url: "https://www.youtube.com/@zhukovsd_it_mentor"
+      weight: 30
+
+markup:
+  tableOfContents:
+    endLevel: 4
+    ordered: false
+    startLevel: 4
+
+services:
+  googleAnalytics:
+    id: "TODO"

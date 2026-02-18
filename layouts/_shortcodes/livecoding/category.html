@@ -1,0 +1,18 @@
+{{ $dataPath := path.Join .Page.File.Dir .Page.File.BaseFileName }}
+
+{{ $data := index .Site.Data (split $dataPath "/") }}
+{{ $tasks := slice }}
+
+{{ range $task := $data.tasks }}
+    {{ $tasks = $tasks | append (dict "id" .id "question" .question "filepath" .filepath) }}
+{{ end }}
+
+{{ $sortedTasks := sort $tasks "id" "asc" }}
+
+{{ range $task := $sortedTasks }}
+    {{ $page := $.Site.GetPage .filepath }}
+    {{ $questionLink := $page.RelPermalink }}
+
+    <h4>{{ .id }}. <a href="{{ $questionLink }}">{{ .question }}</a></h4>
+    <hr>
+{{end}}
