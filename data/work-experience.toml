@@ -1,0 +1,109 @@
+[[categories]]
+  id = 1
+  title = "Общие вопросы"
+  popularity = 100.0
+
+  [[categories.questions]]
+    id = 1
+    question = "Расскажите о проекте/о себе/почему решили сменить работу"
+    popularity = 100.0
+
+  [[categories.questions]]
+    id = 2
+    question = "Размер команды? Из кого состояла. Как работали с бизнес требованиями. Как была организована работа в команде?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 3
+    question = "Системы трекинга"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 4
+    question = "Как писали документацию? Где хранили? Confluence?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 5
+    question = "Методология разработки приложений"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 6
+    question = "Какие правила использовались при апруве ревью?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 7
+    question = "Занимались рефакторингом? Работали с чужим кодом?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 8
+    question = "Как оценивали задачи?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 9
+    question = "Расскажи про GitFlow"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 10
+    question = "Расскажите о флоу разработки?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 11
+    question = "Расскажи про самую интересную/трудную задачу"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 12
+    question = "Какой RPS? Какой объем данных?"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 13
+    question = "Опишите архитектуру вашей системы: из каких частей она состоит, как они взаимодействуют и как проходит выполнение запроса (или бизнес-процесса) от начала до конца"
+    popularity = 100.0
+
+  [[categories.questions]]
+    id = 14
+    question = "Опишите пользовательский сценарий (user flow / use-case): как пользователь взаимодействует с системой от первого действия до получения результата"
+    popularity = 100.0
+
+  [[categories.questions]]
+    id = 15
+    question = "Какое у вас направление (специализация/профиль) высшего образования?"
+    popularity = 100.0
+
+  [[categories.questions]]
+    id = 16
+    question = "Как выполняется программа на уровне процессора и памяти?"
+    popularity = 100.0
+
+[[categories]]
+  id = 2
+  title = "Опыт с технологиями"
+  popularity = 0.0
+
+  [[categories.questions]]
+    id = 1
+    question = "Опыт с Kafka"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 2
+    question = "Опыт с многопоточкой"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 3
+    question = "Опыт с Kubernetes"
+    popularity = 0.0
+
+  [[categories.questions]]
+    id = 4
+    question = "Опыт написания нативных SQL запросов"
+    popularity = 0.0

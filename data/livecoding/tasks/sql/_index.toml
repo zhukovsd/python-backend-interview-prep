@@ -1,0 +1,7 @@
+category = "SQL"
+
+[[tasks]]
+  id = 1
+  question = "Найди id юнитов, которые были проданы на сумму более 1000 рублей после 10:00 сегодняшнего дня. > \"2024-06-03 10:00\""
+  answer = "```sql\n-- Создание таблицы Unit\nCREATE TABLE Unit (\n    Id INT PRIMARY KEY,\n    Price DECIMAL(10, 2)\n);\n\n-- Создание таблицы Sales\nCREATE TABLE Sales (\n    Id INT PRIMARY KEY,\n    Unit_id INT,\n    Sale_time TIMESTAMP,\n    FOREIGN KEY (Unit_id) REFERENCES Unit(Id)\n);\n```\n\n{{< hint warning >}}\n**Спойлеры к решению**  \n{{< /hint >}}\n\n{{< details \"Подсказки\" close >}}\n- Нужно выбрать `Unit.Id`, у которых сумма продаж превышает `1000` рублей.\n- Для фильтрации использовать `SUM(Price) > 1000` и `Sale_time > '2024-06-03 10:00'`.\n- Объединяем таблицы через `JOIN` по `Unit.Id = Sales.Unit_id`.\n- Используем `GROUP BY Unit_id`, чтобы агрегировать суммы.\n{{< /details >}}\n\n{{< details \"Решение\" close >}}\n\n```sql\nSELECT u.Id \nFROM Unit u\nJOIN Sales s ON u.Id = s.Unit_id\nWHERE s.Sale_time > '2024-06-03 10:00'\nGROUP BY u.Id\nHAVING SUM(u.Price) > 1000;\n```\n\nЭтот SQL-запрос выбирает идентификаторы юнитов (`Id`), у которых сумма продаж после 10:00 превышает 1000 рублей. ✅\n{{< /details >}}"
+  filepath = "units-sold-after-time"
