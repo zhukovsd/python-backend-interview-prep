@@ -47,7 +47,7 @@
 
 [[questions]]
   id = 8
-  question = "Что такое Инкапсуляция"
+  question = "Что такое инкапсуляция"
   answer = "Hello World"
   popularity = 100.0
 
