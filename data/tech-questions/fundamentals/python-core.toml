@@ -1,0 +1,106 @@
+[category]
+  id = 2
+  title = "Python Core"
+  popularity = 100.0
+
+[[questions]]
+  id = 1
+  question = "Что представляет собой функциональный подход к программированию?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 2
+  question = "Сравните императивную (процедурную) и функциональную парадигмы программирования."
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 3
+  question = "Что такое Дескрипторы в Python"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 4
+  question = "Магический метод `__get__()`"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 5
+  question = "Магический метод `__del__()`"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 6
+  question = "Магический метод `__set__`()"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 7
+  question = "Магические методы `__init__()` и `__new__()`"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 8
+  question = "Какие магические методы определены в базовом метаклассе Python?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 9
+  question = "Как связаны магические методы и метаклассы в объектной модели Python?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 10
+  question = "Зачем нужны метаклассы в Python?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 11
+  question = "Менеджер контекста with в python"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 12
+  question = "Чем можно заменить контекстный менеджер?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 13
+  question = "Чем отличаются операторы сравнения == и is "
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 14
+  question = "Чем отличается @classmethod от @staticmethod?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 15
+  question = "Чем отличается первый аргумент classmethod от метода экземпляра?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 16
+  question = "Что такое self в методах класса?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 17
+  question = "Является ли класс объектом в модели данных Python?"
+  answer = "Hello World"
+  popularity = 100.0
