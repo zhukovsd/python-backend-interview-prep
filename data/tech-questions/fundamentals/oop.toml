@@ -44,3 +44,51 @@
   question = "Является – «is a», имеет – «has a»"
   answer = "{{< figure src=association.png >}}\n \n **Наследование** «is a» ЯВЛЯТЬСЯ (обобщение/расширение) – очень мощная связь\n\n  **Ассоциация** «has a» ИМЕТЬ (объекты ИМЕЮТ ссылки/ссылаются друг на друга)\n"
   popularity = 0.0
+
+[[questions]]
+  id = 8
+  question = "Что такое Инкапсуляция"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 9
+  question = "Для чего используется инкапсуляция в объектно-ориентированном программировании?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 10
+  question = "Что такое полиморфизм, можешь ли привести пример реализации в рамках python"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 11
+  question = "Какую задачу решает полиморфизм в ООП?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 12
+  question = "В какой ситуации применяется полиморфизм?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 13
+  question = "Какая модель наследования используется в Python и какие её формы?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 14
+  question = "Как определяется порядок поиска методов в иерархии классов Python? / Как работает MRO?"
+  answer = "Hello World"
+  popularity = 100.0
+
+[[questions]]
+  id = 15
+  question = "Что можешь рассказать про принцип программирования SOLID?"
+  answer = "Hello World"
+  popularity = 100.0
