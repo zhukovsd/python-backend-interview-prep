@@ -55,6 +55,10 @@ timestamp_col_index = 2 # for range A:C this is column C
 name = "ООП"
 answers_filepath = "tech-questions/fundamentals/oop.md"
 
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Python Core"
+answers_filepath = "tech-questions/fundamentals/python-core.md"
+
 
 [[spreadsheet.livecoding_sheet.categories]]
 name = "SQL"
