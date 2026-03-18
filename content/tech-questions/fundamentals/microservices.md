@@ -1,6 +1,6 @@
 +++
 title = 'Микросервисы'
-weight = 18
+weight = 19
 bookFlatSection = true
 +++
 
