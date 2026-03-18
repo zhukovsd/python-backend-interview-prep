@@ -1,0 +1,76 @@
+[category]
+  id = 20
+  title = "Опыт с технологиями"
+  popularity = 71.43
+
+[[questions]]
+  id = 1
+  question = "Опыт с Kafka"
+  answer = "Хеллоу Ворлд"
+  popularity = 0.0
+
+[[questions]]
+  id = 2
+  question = "Опыт с многопоточкой"
+  answer = "Хеллоу Ворлд"
+  popularity = 0.0
+
+[[questions]]
+  id = 3
+  question = "Опыт с Kubernetes"
+  answer = "Хеллоу Ворлд"
+  popularity = 0.0
+
+[[questions]]
+  id = 4
+  question = "Опыт написания нативных SQL запросов"
+  answer = "Хеллоу Ворлд"
+  popularity = 0.0
+
+[[questions]]
+  id = 5
+  question = "Опыт с Linux"
+  answer = "Хеллоу Ворлд"
+  popularity = 28.57
+
+[[questions]]
+  id = 6
+  question = "Опыт с Docker"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Опыт с брокерами сообщений"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 8
+  question = "Опыт с GIT"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 9
+  question = "Опыт с httpx"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 10
+  question = "Опыт работы с базами данных (SQL и NoSQL)"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 11
+  question = "Опыт с проектированием и созданием таблиц в БД"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 12
+  question = "Опыт с транзакциями в SQL"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29

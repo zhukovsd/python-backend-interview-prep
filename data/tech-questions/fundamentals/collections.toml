@@ -1,0 +1,94 @@
+[category]
+  id = 7
+  title = "Типы данных и Коллекции"
+  popularity = 100.0
+
+[[questions]]
+  id = 1
+  question = "Как работает set?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что представляет собой тип данных множество (set)"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Как разрешаются коллизии в hash-таблицах?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Какие типы данных существуют в python?"
+  answer = "Hello World"
+  popularity = 57.14
+
+[[questions]]
+  id = 5
+  question = "Чем отличается списки от кортежа?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Возможен ли доступ к элементу множества (set) по позиции (индексу)?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 7
+  question = "Как реализован список (list) на уровне внутренней структуры данных?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 8
+  question = "Как происходит выделение памяти для списка и его внутреннего хранилища?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 9
+  question = "Как ведут себя элементы списка в момент увеличения его внутренней ёмкости?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 10
+  question = "Массив vs список"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 11
+  question = "Почему при создании списка под его внутреннее хранилище выделяется массив фиксированной длины и определённого типа?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 12
+  question = "В какой структуре данных поиск выполняется эффективнее — в списке или во множестве?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 13
+  question = "С какими структурами данных из модуля collections вы работали?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 14
+  question = "Что может выступать ключом в словаре и каким образом устроена внутренняя структура словаря?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 15
+  question = "Может ли кортеж, использоваться в качестве ключа словаря?"
+  answer = "Hello World"
+  popularity = 28.57

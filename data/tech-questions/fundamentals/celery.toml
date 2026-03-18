@@ -1,0 +1,52 @@
+[category]
+  id = 17
+  title = "Брокеры сообщений и Celery"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Для каких целей в системе применялся Celery?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Насколько хорошо знакомы с гарантиями доставки сообщений в брокерах?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Гарантии доставки в RabbitMQ"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Из каких основных компонентов состоит брокер сообщений?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Механизм доставки сообщений в RabbitMQ"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Какие сообщения и данные обычно отправляют через RabbitMQ?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Как работает consumer в RabbitMQ и как происходит доставка и подтверждение сообщений?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 8
+  question = "Как версионируют сообщения и поддерживают несколько версий схемы в RabbitMQ?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29

@@ -1,0 +1,112 @@
+[category]
+  id = 13
+  title = "SQL"
+  popularity = 71.43
+
+[[questions]]
+  id = 1
+  question = "Уровни изоляции транзакций в БД"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 2
+  question = "Как повысить эффективность выборки записей из большой таблицы? | Опыт оптимизации запросов."
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 3
+  question = "Виды JOIN. Как работает каждый JOIN?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 4
+  question = "Нормализация и денормализация. Перечислите формы"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Индексы в SQL. Что это и для чего используются?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 6
+  question = "Какие основные типы/виды индексов существуют и в каких случаях они применяются?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "В каких случаях целесообразно использовать hash-индекс в базе данных?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 8
+  question = "Как организован B-tree индекс и по какому принципу он работает?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 9
+  question = "Что хранится в узлах B-дерева и как по нему выполняется поиск?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 10
+  question = "В каких ситуациях использование индексов в базе данных снижает эффективность системы или приводит к ухудшению производительности?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 11
+  question = "Что такое SQL-инъекция?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 12
+  question = "Что такое транзакция в базе данных и какими свойствами ACID она обладает?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 13
+  question = "Какими инструментами вы пользовались для анализа плана выполнения запроса (EXPLAIN/EXPLAIN ANALYZE) и как интерпретируете результат?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 14
+  question = "EXPLAIN vs EXPLAIN ANALYZE"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 15
+  question = "Что делает команда VACUUM в PostgreSQL и зачем она нужна?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 16
+  question = "Что делает команда TRUNCATE и чем она отличается от DELETE?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 17
+  question = "Какие существуют способы решения проблемы распределённых транзакций?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 18
+  question = "Какие решения по конфигурации базы данных обычно принимает разработчик на проекте?"
+  answer = "Hello World"
+  popularity = 14.29

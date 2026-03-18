@@ -1,0 +1,16 @@
+[category]
+  id = 2
+  title = "Паттерны"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Какие группы паттернов (паттерны) вы можете назвать (порождающие, структурные, поведенческие) и приведите примеры из каждой?"
+  answer = "hello world"
+  popularity = 28.57
+
+[[questions]]
+  id = 2
+  question = "Как реализовать паттерн Singleton и какие есть основные способы реализации?"
+  answer = "hello world"
+  popularity = 14.29

@@ -1,0 +1,82 @@
+[category]
+  id = 8
+  title = "Асинхронность Многопоточность Многопроцессорность"
+  popularity = 57.14
+
+[[questions]]
+  id = 1
+  question = "Что такое асинхронность и как она устроена?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что такое конкурентность?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Чем отличаются асинхронность и многопоточность?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Многопоточность vs Многопроцессорность | threading vs multiprocessing"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 5
+  question = "Для каких типов задач целесообразно использовать асинхронность, многопоточность, мультипроцессность (I/O-bound vs CPU-bound)?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 6
+  question = "Как реализована модель асинхронного выполнения?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Что обозначают ключевые слова async и await в механизме корутин?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 8
+  question = "Какими способами реализовать конкурентность без async/await и как на это влияет GIL?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 9
+  question = "Какие примитивы синхронизации используются в многопоточном программировании?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 10
+  question = "Какая стандартная библиотека отвечает за асинхронность (async/await) и событийный цикл?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 11
+  question = "Какие ключевые особенности asyncio как модели конкурентности (event loop, корутины, задачи)?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 12
+  question = "В какие моменты event loop переключается между задачами в асинхронном выполнении?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 13
+  question = "Как организовать одновременное выполнение нескольких coroutine-задач?"
+  answer = "Hello World"
+  popularity = 14.29

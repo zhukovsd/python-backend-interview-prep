@@ -1,0 +1,46 @@
+[category]
+  id = 16
+  title = "WEB"
+  popularity = 57.14
+
+[[questions]]
+  id = 1
+  question = "GET vs POST"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что такое JWT токен?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Какие плюсы и минусы имеет использование JWT в системах авторизации?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Как выполняется валидация JWT в приложении?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Что такое REST (Representational State Transfer) как архитектурный стиль, и какие ограничения (constraints) лежат в его основе?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Какой протокол обычно используется при построении REST API"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Как сервер выполняет перенаправление браузера через HTTP-ответ?"
+  answer = "Hello World"
+  popularity = 14.29

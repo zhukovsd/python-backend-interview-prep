@@ -1,0 +1,40 @@
+[category]
+  id = 10
+  title = "Django и Django REST Fraemwork"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Как устроена архитектура Django и какие основные компоненты входят в её модель взаимодействия?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что представляет собой менеджер модели в Django ORM и какую роль он выполняет при работе с объектами базы данных?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Что такое middleware в Django и какую роль он играет в обработке HTTP-запроса и HTTP-ответа?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Как работает механизм CSRF-защиты в Django и какую роль играет CSRF-токен?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Что такое сигналы в Django и в каких случаях их применяют?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Для чего в Django используются метаклассы?"
+  answer = "Hello World"
+  popularity = 14.29

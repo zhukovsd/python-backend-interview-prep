@@ -1,5 +1,5 @@
 [category]
-  id = 2
+  id = 3
   title = "Python Core"
   popularity = 100.0
 
@@ -7,100 +7,184 @@
   id = 1
   question = "Что представляет собой функциональный подход к программированию?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 2
   question = "Сравните императивную (процедурную) и функциональную парадигмы программирования."
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 3
-  question = "Что такое Дескрипторы в Python"
+  question = "Что такое Дескрипторы"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 28.57
 
 [[questions]]
   id = 4
-  question = "Магический метод `__get__()`"
+  question = "Когда и при каких операциях с атрибутом срабатывает дескриптор"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 5
-  question = "Магический метод `__del__()`"
+  question = "Магический метод `__get__()`"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 6
-  question = "Магический метод `__set__`()"
+  question = "Магический метод `__del__()`"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 7
-  question = "Магические методы `__init__()` и `__new__()`"
+  question = "Магический метод `__set__`()"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 8
-  question = "Какие магические методы определены в базовом метаклассе Python?"
+  question = "Магические методы `__init__()` и `__new__()`"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 9
-  question = "Как связаны магические методы и метаклассы в объектной модели Python?"
+  question = "Какие магические методы (dunder-методы) класса вы знаете и за какие группы поведения они отвечают?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 10
-  question = "Зачем нужны метаклассы в Python?"
+  question = "Какие магические методы определены в базовом метаклассе?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 11
-  question = "Менеджер контекста with в python"
+  question = "Как связаны магические методы и метаклассы в объектной модели?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 12
-  question = "Чем можно заменить контекстный менеджер?"
+  question = "Зачем нужны метаклассы?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 28.57
 
 [[questions]]
   id = 13
-  question = "Чем отличаются операторы сравнения == и is "
+  question = "Менеджер контекста with"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 42.86
 
 [[questions]]
   id = 14
-  question = "Чем отличается @classmethod от @staticmethod?"
+  question = "Какие параметры передаются в `__exit__` у контекстного менеджера?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 15
-  question = "Чем отличается первый аргумент classmethod от метода экземпляра?"
+  question = "С какими типами ресурсов обычно используют контекстные менеджеры и почему это удобно?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 16
-  question = "Что такое self в методах класса?"
+  question = "Чем можно заменить контекстный менеджер?"
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
 
 [[questions]]
   id = 17
-  question = "Является ли класс объектом в модели данных Python?"
+  question = "Чем отличаются операторы сравнения == и is "
   answer = "Hello World"
-  popularity = 100.0
+  popularity = 14.29
+
+[[questions]]
+  id = 18
+  question = "Чем отличается @classmethod от @staticmethod?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 19
+  question = "Чем отличается первый аргумент classmethod от метода экземпляра?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 20
+  question = "Что такое self в методах класса?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 21
+  question = "Является ли класс объектом в модели данных?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 22
+  question = "Какой метод вызывается при удалении объекта?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 23
+  question = "Как определяется хэшируемость объектов и их связь с магическими методами __hash__ и __eq__"
+  answer = "Hello World"
+  popularity = 42.86
+
+[[questions]]
+  id = 24
+  question = "Какие объекты и сущности участвуют в создании класса"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 25
+  question = "Что такое исключение (exception) и какую роль оно играет в обработке ошибок?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 26
+  question = "Какие дополнительные блоки, помимо try и except, существуют в конструкции обработки исключений (else, finally) и когда они выполняются?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 27
+  question = "Когда используют try-finally без except"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 28
+  question = "В каких случаях несколько объектов могут ссылаться на один и тот же объект?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 29
+  question = "Оператор del - для каких целей используется"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 30
+  question = "Что такое `__slots__` и как он работает?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 31
+  question = "Ограничивает ли `__slots__` создание новых атрибутов объекта?"
+  answer = "Hello World"
+  popularity = 14.29

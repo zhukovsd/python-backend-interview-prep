@@ -1,0 +1,22 @@
+[category]
+  id = 14
+  title = "NoSQL"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Для чего используется Redis?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что представляют собой NoSQL-базы данных, какие задачи они решают и чем они принципиально отличаются от реляционных СУБД?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Какими свойствами классических реляционных БД жертвуют NoSQL-системы и ради каких преимуществ?"
+  answer = "Hello World"
+  popularity = 14.29

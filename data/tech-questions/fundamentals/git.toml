@@ -1,0 +1,10 @@
+[category]
+  id = 19
+  title = "Git"
+  popularity = 14.29
+
+[[questions]]
+  id = 1
+  question = "Git. Для чего нужен Cherry Pick"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29

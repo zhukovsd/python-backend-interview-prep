@@ -1,0 +1,16 @@
+[category]
+  id = 18
+  title = "Микросервисы"
+  popularity = 14.29
+
+[[questions]]
+  id = 1
+  question = "Почему shared database считается плохой практикой для микросервисов?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Как организуют аутентификацию и авторизацию между микросервисами?"
+  answer = "Хеллоу Ворлд"
+  popularity = 14.29

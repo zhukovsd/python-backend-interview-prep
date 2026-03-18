@@ -1,0 +1,34 @@
+[category]
+  id = 6
+  title = "Итераторы и Генераторы"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Что такое итератор и как он используется?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Как реализовать протокол итератора и создать собственный итератор?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Какую роль выполняет метод `__next__()` в итерационном протоколе и какую логику он обязан реализовывать?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Объект итератор vs итерируемый объект"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Что такое генераторы и какие основные виды генераторов существуют?"
+  answer = "Hello World"
+  popularity = 14.29

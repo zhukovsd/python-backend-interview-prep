@@ -1,0 +1,16 @@
+[category]
+  id = 12
+  title = "Тестирование"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "Что такое фикстуры в тестировании и какую задачу они решают при подготовке окружения и данных для тестов?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Для каких задач применяется `unittest.mock`?"
+  answer = "Hello World"
+  popularity = 14.29
