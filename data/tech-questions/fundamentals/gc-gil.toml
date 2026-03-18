@@ -1,0 +1,46 @@
+[category]
+  id = 5
+  title = "Сборщик мусора и GiL"
+  popularity = 57.14
+
+[[questions]]
+  id = 1
+  question = "Как определяется момент освобождения памяти объекта?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Что такое GIL (Global Interpreter Lock)"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Как устроен механизм сборки мусора?"
+  answer = "Hello World"
+  popularity = 28.57
+
+[[questions]]
+  id = 4
+  question = "Где хранится счётчик ссылок у объекта?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Какой недостаток механизма подсчёта ссылок?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Как называется механизм удаления циклических ссылок?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "В каких случаях память не освобождается после удаления ссылок?"
+  answer = "Hello World"
+  popularity = 14.29

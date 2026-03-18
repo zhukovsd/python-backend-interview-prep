@@ -66,49 +66,29 @@
   [[categories.questions]]
     id = 13
     question = "Опишите архитектуру вашей системы: из каких частей она состоит, как они взаимодействуют и как проходит выполнение запроса (или бизнес-процесса) от начала до конца"
-    popularity = 100.0
+    popularity = 14.29
 
   [[categories.questions]]
     id = 14
     question = "Опишите пользовательский сценарий (user flow / use-case): как пользователь взаимодействует с системой от первого действия до получения результата"
-    popularity = 100.0
+    popularity = 14.29
 
   [[categories.questions]]
     id = 15
-    question = "Какое у вас направление (специализация/профиль) высшего образования?"
-    popularity = 100.0
+    question = "С какими БД работал / Какие БД использовались на проекте?"
+    popularity = 28.57
 
   [[categories.questions]]
     id = 16
-    question = "Как выполняется программа на уровне процессора и памяти?"
-    popularity = 100.0
+    question = "Какими способами микросервисы обмениваются данными?"
+    popularity = 14.29
 
   [[categories.questions]]
     id = 17
-    question = "Какими методами можно кратно ускорить выполнение программы?"
-    popularity = 100.0
-
-[[categories]]
-  id = 2
-  title = "Опыт с технологиями"
-  popularity = 0.0
+    question = "Как вы применяли ORM для работы с базой данных?"
+    popularity = 14.29
 
   [[categories.questions]]
-    id = 1
-    question = "Опыт с Kafka"
-    popularity = 0.0
-
-  [[categories.questions]]
-    id = 2
-    question = "Опыт с многопоточкой"
-    popularity = 0.0
-
-  [[categories.questions]]
-    id = 3
-    question = "Опыт с Kubernetes"
-    popularity = 0.0
-
-  [[categories.questions]]
-    id = 4
-    question = "Опыт написания нативных SQL запросов"
-    popularity = 0.0
+    id = 18
+    question = "Виды и инструмены тестирования"
+    popularity = 28.57

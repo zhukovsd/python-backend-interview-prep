@@ -1,0 +1,94 @@
+[category]
+  id = 15
+  title = "Docker, Docker Compose, Linux"
+  popularity = 28.57
+
+[[questions]]
+  id = 1
+  question = "В чём различие между контейнеризацией и виртуализацией?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Является ли контейнер полноценной операционной системой?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Где находится ядро ОС при использовании контейнеров?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Что такое загрузчик системы (GRUB) и какую роль он выполняет?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Какие этапы происходят после того, как GRUB передаёт управление ядру?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Какие особенности работы контейнеров на Windows?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Есть ли опыт контейнеризации Python-приложений?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 8
+  question = "Как выбирается базовый образ для контейнера?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 9
+  question = "Какими способами передаются параметры в контейнер при запуске?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 10
+  question = "Как в контейнерной среде организуют хранение данных вне контейнера?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 11
+  question = "Что такое volume?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 12
+  question = "Какие основные сущности используются в Docker?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 13
+  question = "Как подключиться к запущенному Docker-контейнеру через терминал?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 14
+  question = "Способы оптимизации Docker-образов и повышения эффективности их использования?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 15
+  question = "Использование многоэтапной сборки Docker-образов на базе Alpine."
+  answer = "Hello World"
+  popularity = 14.29

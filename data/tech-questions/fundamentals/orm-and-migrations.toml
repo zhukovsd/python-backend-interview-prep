@@ -1,0 +1,46 @@
+[category]
+  id = 11
+  title = "SQLAlchemy ORM и миграции"
+  popularity = 42.86
+
+[[questions]]
+  id = 1
+  question = "Что такое ORM-подход в разработке и какие преимущества он предоставляет при работе с данными?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "С каким подходом в SQLAlchemy велась работа: через Core, ORM"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Каким образом в SQLAlchemy реализуется связывание таблиц через foreign key и relationship?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Какие риски и особенности нужно учитывать при использовании relationship в SQLAlchemy?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "В какой момент ORM подгружает связанные модели при работе со связями?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 6
+  question = "Что представляет собой проблема N+1 запросов при работе с базой данных или ORM?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 7
+  question = "Как синхронизируют миграции базы данных в команде и решают конфликты между ними?"
+  answer = "Hello World"
+  popularity = 14.29

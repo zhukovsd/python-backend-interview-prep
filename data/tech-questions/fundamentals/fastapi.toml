@@ -1,0 +1,34 @@
+[category]
+  id = 9
+  title = "FastAPI"
+  popularity = 42.86
+
+[[questions]]
+  id = 1
+  question = "Какая библиотека используется в FastAPI для валидации данных?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 2
+  question = "Для чего используется pydantic"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 3
+  question = "Как реализован механизм внедрения зависимостей (DI | Dependency Injection) во фреймворке FastAPI?"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 4
+  question = "Django vs FastAPI"
+  answer = "Hello World"
+  popularity = 14.29
+
+[[questions]]
+  id = 5
+  question = "Каким образом FastAPI обрабатывает синхронный endpoint внутри асинхронной среды выполнения?"
+  answer = "Hello World"
+  popularity = 14.29
