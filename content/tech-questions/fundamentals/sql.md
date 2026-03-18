@@ -1,6 +1,6 @@
 +++
 title = 'SQL'
-weight = 1
+weight = 14
 bookFlatSection = true
 +++
 
