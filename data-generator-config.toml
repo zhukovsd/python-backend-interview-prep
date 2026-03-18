@@ -59,6 +59,82 @@ answers_filepath = "tech-questions/fundamentals/oop.md"
 name = "Python Core"
 answers_filepath = "tech-questions/fundamentals/python-core.md"
 
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Паттерны"
+answers_filepath = "tech-questions/fundamentals/patterns.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Функции и Декораторы"
+answers_filepath = "tech-questions/fundamentals/functions-and-decorators.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Сборщик мусора и GiL"
+answers_filepath = "tech-questions/fundamentals/gc-gil.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Итераторы и Генераторы"
+answers_filepath = "tech-questions/fundamentals/iterators-generators.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Типы данных и Коллекции"
+answers_filepath = "tech-questions/fundamentals/collections.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Асинхронность Многопоточность Многопроцессорность"
+answers_filepath = "tech-questions/fundamentals/async-multiprocessing-threading.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "FastAPI"
+answers_filepath = "tech-questions/fundamentals/fastapi.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Django и Django REST Fraemwork"
+answers_filepath = "tech-questions/fundamentals/django-drf.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "SQLAlchemy ORM и миграции"
+answers_filepath = "tech-questions/fundamentals/orm-and-migrations.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Тестирование"
+answers_filepath = "tech-questions/fundamentals/testing.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "SQL"
+answers_filepath = "tech-questions/fundamentals/sql.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "NoSQL"
+answers_filepath = "tech-questions/fundamentals/nosql.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Docker, Docker Compose, Linux"
+answers_filepath = "tech-questions/fundamentals/docker-linux.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "WEB"
+answers_filepath = "tech-questions/fundamentals/web.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Брокеры сообщений и Celery"
+answers_filepath = "tech-questions/fundamentals/celery.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Микросервисы"
+answers_filepath = "tech-questions/fundamentals/microservices.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Git"
+answers_filepath = "tech-questions/fundamentals/git.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Опыт с технологиями"
+answers_filepath = "tech-questions/fundamentals/technology-experience.md"
+
+[[spreadsheet.tech_answer_sheet.categories]]
+name = "Другое"
+answers_filepath = "tech-questions/fundamentals/other.md"
+
 
 [[spreadsheet.livecoding_sheet.categories]]
 name = "SQL"
