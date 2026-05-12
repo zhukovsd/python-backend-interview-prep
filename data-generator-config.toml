@@ -141,6 +141,11 @@ name = "SQL"
 category_filepath = "livecoding/tasks/sql/_index.md"
 task_path_prefix = "livecoding/tasks/sql/"
 
+[[spreadsheet.livecoding_sheet.categories]]
+name = "Python"
+category_filepath = "livecoding/tasks/python/_index.md"
+task_path_prefix = "livecoding/tasks/python/"
+
 
 [[spreadsheet.main_sheet.work_experience.categories]]
 name = "Общие вопросы"
