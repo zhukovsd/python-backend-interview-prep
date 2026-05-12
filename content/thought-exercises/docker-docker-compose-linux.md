@@ -1,6 +1,6 @@
 +++
 title = 'Docker - Docker Compose - Linux'
-weight = 3
+weight = 4
 bookFlatSection = true
 bookToC = false
 bookHidden = true
