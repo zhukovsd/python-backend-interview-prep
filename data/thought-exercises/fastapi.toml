@@ -1,0 +1,7 @@
+[category]
+  id = 7
+  title = "FastAPI"
+
+[[exercises]]
+  id = 1
+  exercise = "Как реализовать разные версии API с XML и JSON?"
