@@ -1,0 +1,181 @@
+category = "Python"
+
+[[tasks]]
+  id = 1
+  question = "Подсчитать уникальные пары с разницей не меньше k."
+  answer = "**Условие задачи:**\nДан массив целых чисел nums и целое число k.  \nВерните количество уникальныхпар с разницей >= k в массиве. \n\n**Пример:**\n```python\nk_pairs([1, 2, 3, 4], 3) -> 1\nk_pairs([1, 1, 3, 4], 2) -> 4\nk_pairs([], 2) -> 0\nk_pairs([1, 1, 3, 4], 20) -> 0\n```"
+  filepath = "unique-pairs-difference-at-least-k"
+
+[[tasks]]
+  id = 2
+  question = "Заполнить матрицу 5×5 уникальными значениями и вычисли суммы строк и столбцов."
+  answer = "**Условие задачи:**\nЗаполните матрицу 5х5 случайными целыми числами.  \nЧисла должны быть уникальными.  \nВыведите на экран матрицу и суммы всех рядов и строк.\n"
+  filepath = "unique-matrix-sums"
+
+[[tasks]]
+  id = 3
+  question = "Проверить возможность получить одну строку из другой"
+  answer = "**Условие задачи.**\nНаписать функцию, которая  возвращает `True` или `False` на вопрос можно ли получить из первой строки вторую?"
+  filepath = "check-string-transformation"
+
+[[tasks]]
+  id = 4
+  question = "Добавить проверку на количество символов"
+  answer = ""
+  filepath = ""
+
+[[tasks]]
+  id = 5
+  question = "Удалить дубликаты символов из строки"
+  answer = "**Условие задачи**\nНапиши функцию которая позволит нам из строки 'abcdd' получить строку \"abcd\""
+  filepath = "remove-duplicate-chars"
+
+[[tasks]]
+  id = 6
+  question = "Реализовать генератор отдающий последовательности Фибоначчи"
+  answer = "**Условие задачи**\nНаписать генератор, отдающий числа Фиббоначи"
+  filepath = "fibonacci-number-generator"
+
+[[tasks]]
+  id = 7
+  question = "Дописать класс так что бы он был callable"
+  answer = "**Условие задачи**\nДописать объект (класс), чтобы сигнатура вызовов позволяла выполнять следующее\n```python\ncustomsum(1) # 1\ncustomsum(1)(2) # 3\ncustomsum(1)(-2)(3) # 2\n\ns = customsum(1)\ns(2)\ns(3)\nprint(11 + int(s)) # 17\n```"
+  filepath = "callable-cumulative-sum"
+
+[[tasks]]
+  id = 8
+  question = "Удалить смайлики по шаблону из строки"
+  answer = "**Условие задачи**\nДан набор строк. Требуется за линейное время для каждой строки удалить все подстроки, соответствующие заданному регулярному выражению смайликов :-\\)+|:-\\(+, и вывести очищенный текст.\n\n**Пример**\nДаны сообщения из соцсети, например:\n```python\n\"Я работал в Гугле :-))))\"\n\"везет :-) ☹ я туда собеседование завалил:-((\"\n\"лол:)\"\n\"Аааа!!!!! :-))(()\"\n```\nНужно удалить из них все смайлики, которые подходят под регулярное выражение:\n```regex\n:-\\)+|:-\\(+ \n```\nПосле удаления должно получиться так:\n```python\n\"Я работал в Гугле \"\n\"везет  ☹ я туда собеседование завалил\"\n\"лол\"\n\"Аааа!!!!! (()\"\n```"
+  filepath = "remove-smileys-from-text"
+
+[[tasks]]
+  id = 9
+  question = "Рассказать о поведении __str__ и __repr__ при выводе объекта через print()"
+  answer = "**Условие задачи**\nКакой результат будет выведен на экран при выполнении данного кода?\n```python\nclass MyClass:\n    def __init__(self):\n        self.a = \"1\"\n        self.b = \"2\"\n\n    def __str__(self):\n        return self.a\n\n    def __repr__(self):\n        return self.b\n\nmy_obj = MyClass()\nprint(my_obj) >>\n``` "
+  filepath = "print-object-str-repr"
+
+[[tasks]]
+  id = 10
+  question = "Найди ошибку в объявлении функции"
+  answer = "**Условие задачи**\nВ приведённом фрагменте кода есть ошибка. Определите причину и исправьте реализацию функции.\n```python\ndef print(cmd: str) -> Dict[str, float]:\n    print(cmd) if isinstance(cmd, str) else print(cmd * 2)\n```"
+  filepath = "fix-function-definition"
+
+[[tasks]]
+  id = 11
+  question = "Проверить равенства и идентичности объектов"
+  answer = "**Условие задачи**\nКакой результат будет выведен на экран при выполнении данного кода?\n```python\nclass FooCollection:\n    foo_1 = int(\"2\" + \"2\") == int(\"22\")\n    foo_2 = int(\"22\" + \"22\") == int(\"2222\")\n    foo_3 = int(\"2\" + \"2\") is int(\"22\")\n    foo_0 = int(\"22\" + \"22\") is int(\"2222\")\n\nprint(all([getattr(FooCollection(), f\"foo_{x}\") for x in range(4)])) >>\n```"
+  filepath = "compare-equality-and-identity"
+
+[[tasks]]
+  id = 12
+  question = "Скажи как работает динамическое создание класса через type"
+  answer = "**Условие задачи**\nНе запуская код, определите, что будет выведено в каждом случае при использовании type для динамического создания класса и его экземпляра.\n```python\nprint(type(\"A\", (object,), {\"a\": 1, \"b\": 2})) >>\nprint(type(\"A\", (object,), {\"a\": 1, \"b\": 2})()) >>\n```"
+  filepath = "dynamic-class-creation-type"
+
+[[tasks]]
+  id = 13
+  question = "Разобрать метакласс с попыткой реализации Singleton"
+  answer = "**Условие задачи**\nРазберите поведение метакласса и определите, какую задачу пытается решить данная реализация. Нужно понять, как работает переопределение __new__ в метаклассе и к чему приведёт сохранение экземпляра в атрибуте класса.\n```python\nclass NewCls(type):\n    _instance = None\n\n    def __new__(cls, *args, **kwargs):\n        if not cls._instance:\n            cls._instance = super().__new__(cls, *args, **kwargs)\n        return cls._instance\n```\nЧто выведут принты?\n```python\ntest = NewCls(\"X\", (object,), {\"a\": 1, \"b\": 2})\nprint(test.a) >>\n\ntest2 = NewCls(\"X\", (object,), {\"a\": 12, \"b\": 22})\nprint(test2.a) >>\n```\nИзменили код, что теперь выведут принты?\n```python\nclass NewCls(type):\r\n    _instance = None\r\n\r\n    def __new__(cls, *args, **kwargs):\r\n        if not cls._instance:\r\n            cls._instance = super().__new__(cls, *args, **kwargs)\r\n        return cls._instance\r\n\r\n    def __init__(self, *args):\r\n        self.a = args\r\n\r\ntest = NewCls(\"X\", (object,), {\"a\": 1, \"b\": 2})\r\nprint(test.a) >>\r\n\r\ntest2 = NewCls(\"X\", (object,), {\"a\": 12, \"b\": 22})\r\nprint(test2.a) >>\n```"
+  filepath = "metaclass-singleton-attempt"
+
+[[tasks]]
+  id = 14
+  question = "Оптимизировать вычисление факториала"
+  answer = "**Условие задачи**\nФункция работает слишком медленно на больших входных данных. Нужно предложить более эффективное решение, сохранив корректность результата.\n```python\ndef test(x):\n    y = 1\n    for i in range(1, x + 1):\n        y *= i\n    return y\n```\n"
+  filepath = "optimize-factorial"
+
+[[tasks]]
+  id = 15
+  question = "Что будет выведено при изменение словаря через другую переменную"
+  answer = "**Условие задачи**\nДан словарь, который присваивается второй переменной. Необходимо определить, что будет выведено после изменения словаря через вторую переменную.\n```python\na = {'a': 1}\nb = a\nb['b'] = 2\n\nprint(f\"{a = }\")\nprint(f\"{b = }\")\n```"
+  filepath = "dict-reference-mutation"
+
+[[tasks]]
+  id = 16
+  question = "Определить разницу между изменяемыми и неизменяемыми объектами"
+  answer = "**Условие задачи**\nДаны список и кортеж. Нужно определить, что произойдет при попытке изменить элемент списка и элемент кортежа по индексу.\n```python\na = [1, 2, 3, 4, 5]\na[2] = 100\n\nprint(f\"{a = }\")\n\nb = (1, 2, 3, 4, 5)\nb[3] = 100\n\nprint(f\"{b = }\")\n```"
+  filepath = "mutable-vs-immutable"
+
+[[tasks]]
+  id = 17
+  question = "Отфильтруй список по истинности и наличию элементов во втором списке"
+  answer = "**Условие задачи**\nНужно сказать результат выполнения кода ниже и объяснить как он работает\n```python\na = ['a', 'b', 3, 'true', True, 1, 0]\nb = ['0', 1, 3, 5, 7]\n\nc = [x for x in a if x and x in b]\n\nprint(f\"{c = }\")\n```"
+  filepath = "list-truthy-filter"
+
+[[tasks]]
+  id = 18
+  question = "Сказать результат выполнения вложенного цикла по двум спискам и сложение элементов"
+  answer = "**Условие задачи**\nДаны два списка a и b из предыдущей задачи. Необходимо сказать что будет результатом вывода print\n```python\nfor x in a:\n    for y in b:\n        print(x + y)\n```\nКак изменить код, чтобы для строковых была конкатенация, для int - сумма, а остальные варианты пропускались?\nНашиши оптимизтрованный вариант."
+  filepath = "nested-loops-sum"
+
+[[tasks]]
+  id = 19
+  question = "Сказать результат формирования строк с результатами целочисленного деления"
+  answer = "**Условие задачи**\nНужно сказать результат выполнения кода ниже и объяснить как он работает\n```python\na = [1, 2, 3, 4, 5, 6]\nb = [2, 3, 4, 5, 6, 7]\n\nc = [f\"{x} // {y} = {x // y}\" for x in a for y in b if x // y > 1]\n\nfor i in c:\n    print(f\"{i = }\")\n```"
+  filepath = "floor-division-strings"
+
+[[tasks]]
+  id = 20
+  question = "Объяснить как работает поиск максимального случайного числа в цикле и сказать результат выполнения"
+  answer = "**Условие задачи**\nНужно сказать результат выполнения кода ниже и объяснить как он работает\n```python\nfrom random import randint\n\nx = 100\ny = 0\n\nfor i in range(x):\n    z = x + randint(0, x)\n    if z > y:\n        y = z\n\nprint(f\"{y = }\")\n```"
+  filepath = "random-max-loop"
+
+[[tasks]]
+  id = 21
+  question = "Объяснить как работает изменяемый аргумент по умолчанию в функции"
+  answer = "**Условие задачи**\nНужно сказать результат выполнения кода ниже и объяснить как он работает\n```python\ndef extendList(val, list=[]):\n    list.append(val)\n    return list\n\nlist1 = extendList(10)\nlist2 = extendList(123, [])\nlist3 = extendList('a')\n\nprint(f\"{list1 = }\")\nprint(f\"{list2 = }\")\nprint(f\"{list3 = }\")\n```"
+  filepath = "mutable-default-arg"
+
+[[tasks]]
+  id = 22
+  question = "Наследование атрибута класса"
+  answer = "**Условие задачи**\nДан родительский класс с атрибутом класса. От него наследуются два дочерних класса, в которых собственные атрибуты не объявлены.\nНужно определить, какое значение будет выведено при обращении к этому атрибуту через родительский класс и через оба дочерних класса.\n```python\nclass Parent(object):\n    x = 1\n\nclass Child1(Parent):\n    pass\n\nclass Child2(Parent):\n    pass\n\nprint(Parent.x, Child1.x, Child2.x)\n```\nЧто будет если мы определим поле х у наследника?\n```python\nChild1.x = 2\nprint(Parent.x, Child1.x, Child2.x)\n```\nА в случае если переопределим у класса от которого наследуемся? (При условии что код выше уже отработал)\n```python\nParent.x = 3\nprint(Parent.x, Child1.x, Child2.x)\n```\n"
+  filepath = "class-attribute-inheritance"
+
+[[tasks]]
+  id = 23
+  question = "Найти ошибки в коде асинхронных HTTP-запросов через aiohttp и asyncio.gather"
+  answer = "**Условие задачи**\nНайти ошибки в коде ниже\n```python\nimport aiohttp\r\nimport asyncio\r\n\r\nurl = 'https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&titles={title}'\r\nTitles = ['Python', 'Dog', 'Cat']\r\n\r\nasync def make_req(session, title: str) -> dict:\r\n    async with session.get(url.format(title)) as response:\r\n        return await response.json()\r\n\r\nasync def main(titles: list = None):\r\n    async with aiohttp.ClientSession() as session:\r\n        tasks = [make_req(session, title) for title in Titles]\r\n        responses = asyncio.gather(*tasks)\r\n        for response in responses:\r\n            print(response)\r\n\r\nawait main(titles=Titles)\n```"
+  filepath = "async-aiohttp-gather"
+
+[[tasks]]
+  id = 24
+  question = "Сказать результат сравнения идентичности строк"
+  answer = "**Условие задачи**\nПроверить, указывают ли две переменные со строковым значением \"hello\" на один и тот же объект в памяти с помощью оператора is.\n```python\na = \"hello\"\nb = \"hello\"\n\na == b\na is b\n```"
+  filepath = "string-identity-check"
+
+[[tasks]]
+  id = 25
+  question = "Проверить поведение изменения списка внутри кортежа"
+  answer = "**Условие задачи**\nПроверить поведение кортежа, внутри которого находится изменяемый список: сначала список изменяется через append(), затем выполняется попытка изменить элемент кортежа через оператор +=. Что вывежет код?\n```python\ndata = (['1'], '2')\ndata[0].append('3')\ndata[0] += ['4']\n\nprint(data)\n```"
+  filepath = "tuple-list-mutation"
+
+[[tasks]]
+  id = 26
+  question = "Реализовать бесконечный счётчик с ограничением"
+  answer = "**Условие задачи**\nРеализовать функцию counter(), которая работает как генератор чисел.\nЕсли в функцию передано число n, генератор должен выдавать числа от 0 до n - 1.\nЕсли аргумент не передан, генератор должен работать бесконечно, начиная с 0, пока выполнение не будет остановлено вручную.\n```python\n# Сделать бесконечный счётчик\ndef counter:\n    ...\n\n\nfor a in counter(5):\n    print(a, end=' ')  # -> [0, 1, 2, 3, 4]\nprint()\n\n\nfor a in counter():\n    print(a, end=' ')  # -> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]\n    if a == 9:\n        break\n```"
+  filepath = "infinite-counter"
+
+[[tasks]]
+  id = 27
+  question = "Реализовать декоратор для HTML-обёртки"
+  answer = "**Условие задачи**\nРеализовать функцию-декоратор formatter(), которая принимает название HTML-тега и оборачивает результат декорируемой функции в этот тег.\nДекоратор должен работать с функциями, принимающими разное количество аргументов.\nПример: если функция возвращает строку \"hello, Bob\", а декоратор вызван как @formatter('b'), итоговый результат должен быть \"<b>hello, Bob</b>\".\n```python\n# Сделать декоратор\ndef formatter:\n    ...\n\n\n@formatter('b')\ndef hello(name):\n    return f'hello, {name}'\n\n\n@formatter('i')\ndef goodbye(name, reason):\n    return f'goodbye, {name}: {reason}'\n\n\nprint(hello('Bob'))\nassert hello('Bob') == '<b>hello, Bob</b>'\nprint(goodbye('John', 'not good enough'))\nassert goodbye('John', 'not good enough') == '<i>goodbye, John: not good enough</i>'\n```"
+  filepath = "html-tag-decorator"
+
+[[tasks]]
+  id = 28
+  question = "Реализовать контекстный менеджер для работы с файлом"
+  answer = "**Условие задачи**\nРеализовать класс FileManager, который работает как контекстный менеджер для открытия файла.\nКласс должен поддерживать использование через конструкцию with. При входе в контекст должен открываться файл с переданными параметрами, а при выходе из контекста файл должен корректно закрываться.\n\n```python\nclass FileManager:\n    def __enter__(self):\n        pass\n\n    def __exit__(self, exc_type, exc_val, exc_tb):\n        pass\n\n\nwith FileManager('example.txt', 'w') as f:\n    f.write('Hello, World!')\n```\n\n**Дополнительно**\nКакие могут быть ошибки при закрытии файла?"
+  filepath = "file-context-manager"
+
+[[tasks]]
+  id = 29
+  question = "Отфильтровать чётные числа"
+  answer = "**Условие задачи:**\nДан список чисел numbers. Нужно получить новый список, в котором останутся только чётные числа из исходного списка.\nДля списка [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] результат должен быть [2, 4, 6, 8, 10].\nАльтернативно нужна реализация через lambda."
+  filepath = "filter-even-numbers"
+
+[[tasks]]
+  id = 30
+  question = "Рекурсивное извлечение пар из словаря"
+  answer = "**Условие задачи:**\nНаписать функцию, которая принимает на вход словарь и возвращает список всех пар \"ключ-значение\".\nЕсли значение является вложенным словарём, функция должна рекурсивно извлекать ключи и значения из этого словаря.\n\n**Пример:**\n```python\ndata = {'a': 1, 'b': {'c': 2, 'd': {'e': 3}}, 'f': 4}\n>>>[('a', 1), ('c', 2), ('e', 3), ('f', 4)]\n```"
+  filepath = "extract-dict-pairs"
