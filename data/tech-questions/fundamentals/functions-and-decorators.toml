@@ -1,58 +1,88 @@
 [category]
   id = 4
   title = "Функции и Декораторы"
-  popularity = 71.43
+  popularity = 60.0
 
 [[questions]]
   id = 1
   question = "Что такое функции высшего порядка и какие их основные примеры?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 2
   question = "Чем стали заменять функции map(), reduce(), filter()?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 3
   question = "Как реализована передача в функцию произвольного количества позиционных и именованных аргументов с помощью *args и **kwargs?"
   answer = "Hello World"
-  popularity = 28.57
+  popularity = 13.33
 
 [[questions]]
   id = 4
   question = "Допускает ли Python определение функции внутри другой функции и каковы особенности таких вложенных функций?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 5
   question = "Доступна ли вложенная (локальная) функция для вызова из внешнего кода и как определяется область её видимости?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 6
   question = "Что такое декоратор в Python и для каких целей он используется?"
   answer = "Hello World"
-  popularity = 28.57
+  popularity = 20.0
 
 [[questions]]
   id = 7
   question = "Как работает декоратор с параметрами и почему его реализация обычно включает несколько уровней вложенных функций?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 8
   question = "Что происходит с аргументами при передаче в функцию, и как они связываются с параметрами?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 9
   question = "Какой метод должен быть реализован в классе, чтобы его экземпляр можно было использовать как декоратор функций?"
   answer = "Hello World"
-  popularity = 14.29
+  popularity = 6.67
+
+[[questions]]
+  id = 10
+  question = "Как реализована встроенная функция вычисления факториала в Python на уровне стандартной библиотеки и языка?"
+  answer = "Hello World"
+  popularity = 6.67
+
+[[questions]]
+  id = 11
+  question = "Функция map()"
+  answer = "Hello World"
+  popularity = 6.67
+
+[[questions]]
+  id = 12
+  question = "Функция reduce()"
+  answer = "Hello World"
+  popularity = 6.67
+
+[[questions]]
+  id = 13
+  question = "Что такое functools.partial?"
+  answer = "Hello World"
+  popularity = 6.67
+
+[[questions]]
+  id = 14
+  question = "Функция id()"
+  answer = "Hello World"
+  popularity = 6.67

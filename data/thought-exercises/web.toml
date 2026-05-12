@@ -1,0 +1,15 @@
+[category]
+  id = 8
+  title = "Web"
+
+[[exercises]]
+  id = 1
+  exercise = "Где передавать идентификатор клиента в REST API? (Где в API-запросе лучше передавать конкретного клиента для метода client_info()?)"
+
+[[exercises]]
+  id = 2
+  exercise = "Как передать несколько параметров фильтрации в query string?"
+
+[[exercises]]
+  id = 3
+  exercise = "Как сделать операцию списания денег идемпотентной?"

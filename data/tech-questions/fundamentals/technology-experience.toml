@@ -1,7 +1,7 @@
 [category]
   id = 20
   title = "Опыт с технологиями"
-  popularity = 71.43
+  popularity = 66.67
 
 [[questions]]
   id = 1
@@ -31,46 +31,94 @@
   id = 5
   question = "Опыт с Linux"
   answer = "Хеллоу Ворлд"
-  popularity = 28.57
+  popularity = 20.0
 
 [[questions]]
   id = 6
   question = "Опыт с Docker"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 7
   question = "Опыт с брокерами сообщений"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 8
   question = "Опыт с GIT"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 13.33
 
 [[questions]]
   id = 9
   question = "Опыт с httpx"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 10
   question = "Опыт работы с базами данных (SQL и NoSQL)"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 13.33
 
 [[questions]]
   id = 11
   question = "Опыт с проектированием и созданием таблиц в БД"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 6.67
 
 [[questions]]
   id = 12
   question = "Опыт с транзакциями в SQL"
   answer = "Хеллоу Ворлд"
-  popularity = 14.29
+  popularity = 6.67
+
+[[questions]]
+  id = 13
+  question = "Опыт с PostgreSQL"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 14
+  question = "Опыт с AsyncIO"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 15
+  question = "Опыт с Multiprocessing"
+  answer = "Хеллоу Ворлд"
+  popularity = 13.33
+
+[[questions]]
+  id = 16
+  question = "Опыт с FastAPI"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 17
+  question = "Опыт с Redis"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 18
+  question = "Опыт с Typing"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 19
+  question = "Опыт с ORM"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
+
+[[questions]]
+  id = 20
+  question = "Опыт с Индексами в БД"
+  answer = "Хеллоу Ворлд"
+  popularity = 6.67
