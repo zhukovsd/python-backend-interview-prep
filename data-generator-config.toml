@@ -157,3 +157,31 @@ name = "Опыт с технологиями"
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "SQL, базы данных, индексы, ORM и миграции"
 category_filepath = "thought-exercises/sql-databases.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "ООП"
+category_filepath = "thought-exercises/OOP.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Асинхронность - Многопоточность - Многопроцессорность"
+category_filepath = "thought-exercises/async-thread-multiprocess.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Docker - Docker Compose - Linux"
+category_filepath = "thought-exercises/docker-docker-compose-linux.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Типы данных и Коллекции в Python"
+category_filepath = "thought-exercises/collections.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Python Core"
+category_filepath = "thought-exercises/python-core.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "FastAPI"
+category_filepath = "thought-exercises/fastapi.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Web"
+category_filepath = "thought-exercises/web.md"
