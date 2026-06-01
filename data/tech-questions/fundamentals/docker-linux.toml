@@ -1,124 +1,184 @@
 [category]
   id = 15
   title = "Docker, Docker Compose, Linux"
-  popularity = 26.67
+  popularity = 26.32
 
 [[questions]]
   id = 1
   question = "В чём различие между контейнеризацией и виртуализацией?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 2
   question = "Является ли контейнер полноценной операционной системой?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "Где находится ядро ОС при использовании контейнеров?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 4
   question = "Что такое загрузчик системы (GRUB) и какую роль он выполняет?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
   question = "Какие этапы происходят после того, как GRUB передаёт управление ядру?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Какие особенности работы контейнеров на Windows?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 7
   question = "Есть ли опыт контейнеризации Python-приложений?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
   question = "Как выбирается базовый образ для контейнера?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
   question = "Какими способами передаются параметры в контейнер при запуске?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 10
   question = "Как в контейнерной среде организуют хранение данных вне контейнера?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 11
   question = "Что такое volume?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 12
   question = "Какие основные сущности используются в Docker?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 13
   question = "Как подключиться к запущенному Docker-контейнеру через терминал? (docker excec ...)"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 14
   question = "Способы оптимизации Docker-образов и повышения эффективности их использования?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 15
   question = "Использование многоэтапной сборки Docker-образов на базе Alpine."
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 16
   question = "Где в Linux-системе обычно хранятся глобальные конфигурационные файлы?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 17
   question = "Как посмотреть все контейнеры Docker, включая остановленные? (docker ps -a ...)"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 18
   question = "Что такое Docker network?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 19
-  question = "Что такое Docker-Compose"
+  question = "Что такое Docker-Compose и зачем он нужен | Как масштабировать приложение с помощью Docker?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 20
   question = "Что можно описать в docker-compose.yml файле"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 21
+  question = "Отличия dokcer run и dokcer excec"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 22
+  question = "Что происходит с ОС при запуске docker run"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 23
+  question = "Как упаковать новый микросервис в Docker? | Какие шаги нужны для контейнеризации backend-сервиса?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 24
+  question = "Чем отличаются в Docker CMD и ENTRYPOINT?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 25
+  question = "Что такое балансировка нагрузки в Docker?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 26
+  question = "Как работает система кэширования слоёв в Dockerfile?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 27
+  question = "Какие Linux-команды чаще всего использует backend-разработчик?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 28
+  question = "Как изменить права на файл в Linux? | Как работает команда chmod?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "Что делает chmod 751?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "Зачем нужен Docker, если можно поставить всё на Linux-сервер? | Какие преимущества Docker даёт backend-приложению?"
+  answer = "Hello World"
+  popularity = 2.63

@@ -1,124 +1,250 @@
 [category]
   id = 16
   title = "WEB"
-  popularity = 53.33
+  popularity = 50.0
 
 [[questions]]
   id = 1
   question = "GET vs POST"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 7.89
 
 [[questions]]
   id = 2
   question = "Почему в GET-запросе обычно не передают данные в теле запроса?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
-  question = "Что такое JWT токен?"
+  question = "Что такое JWT токен и из чего он состоит?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 4
-  question = "Какие плюсы и минусы имеет использование JWT в системах авторизации?"
+  question = "Жизненный цикл JWT"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
-  question = "Как выполняется валидация JWT в приложении?"
+  question = "Какие плюсы и минусы имеет использование JWT в системах авторизации?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
-  question = "Что такое REST (Representational State Transfer) и RESTfull как архитектурный стиль, и какие ограничения (constraints) лежат в его основе?"
+  question = "Как выполняется валидация JWT в приложении?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 2.63
 
 [[questions]]
   id = 7
-  question = "Какой протокол обычно используется при построении REST API"
+  question = "Можно ли использовать refresh token несколько раз?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
-  question = "Как сервер выполняет перенаправление браузера через HTTP-ответ?"
+  question = "Что будет, если украли refresh token?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
-  question = "Из чего состоит response в REST"
+  question = "Где хранить access token и refresh token?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 10
-  question = "Как вызывать сторонний API напрямую?"
+  question = "Что такое REST (Representational State Transfer) и RESTfull как архитектурный стиль, и какие ограничения (constraints) лежат в его основе?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 11
-  question = "Как подключаться к API без официального SDK?"
+  question = "Какой протокол обычно используется при построении REST API"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 12
-  question = "В каких частях HTTP-запроса можно передавать полезные данные в API?"
+  question = "Как сервер выполняет перенаправление браузера через HTTP-ответ?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 13
-  question = "Что такое и зачем нужен Authorization header в HTTP?"
+  question = "Из чего состоит response в REST"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 14
-  question = "Где передаются cookies в HTTP-запросе?"
+  question = "Как вызывать сторонний API напрямую?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 15
-  question = "Как передать символы ? и & в query parameters?"
+  question = "Как подключаться к API без официального SDK?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 16
-  question = "Почему в HTTP API данные часто передаются в JSON, а не в XML?"
+  question = "В каких частях HTTP-запроса можно передавать полезные данные в API?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 17
-  question = "Как расшифровывается JSON?"
+  question = "Что такое и зачем нужен Authorization header в HTTP?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 18
-  question = "Какие ограничения есть у строки URL?"
+  question = "Где передаются cookies в HTTP-запросе?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 19
-  question = "Что произойдёт, если клиент отправит слишком большое тело запроса?"
+  question = "Как передать символы ? и & в query parameters?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 20
+  question = "Почему в HTTP API данные часто передаются в JSON, а не в XML?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 21
+  question = "Как расшифровывается JSON?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 22
+  question = "Какие ограничения есть у строки URL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 23
+  question = "Что произойдёт, если клиент отправит слишком большое тело запроса?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 24
   question = "Что такое идемпотентность и какие HTTP-методы иденпотентны?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 25
+  question = "TCP vs UDP"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 26
+  question = "Какие способы доставки сообщения с сервера на клиент вы знаете? | Как backend возвращает данные на frontend?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 27
+  question = "Как организовать надежное взаимодействие фронтенда и бэкенда?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 28
+  question = "На чём реализовать авторизацию в backend-приложении?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "Как бы вы валидировали данные, которые пришли от пользователя?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "Что происходит после того, как пользователь вводит адрес сайта или делает клик в браузере? | Жизненный цикл HTTP-запроса от браузера до сервера"
+  answer = "Hello World"
+  popularity = 7.89
+
+[[questions]]
+  id = 31
+  question = "Какой HTTP-запрос выполняется при нажатии на кнопку?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 32
+  question = "Какие бывают HTTP status codes (статус коды)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 33
+  question = "451 статус код ( status code)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 34
+  question = "Что такое CORS?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 35
+  question = "Какой запрос выполняется при CORS? (OPTIONS)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 36
+  question = "Что такое CSP (Content Security Policy)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 37
+  question = "Как браузер понимает, на какой URL нужно отправить HTTP-запрос?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 38
+  question = "Какие типовые уязвимости бывают в веб-приложениях?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 39
+  question = "Как вернуть клиенту понятный ответ, не раскрывая инфраструктурные детали?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 40
+  question = "Как делать retry в HTTP request-response потоке? | Как делать retry, если HTTP-ручка держит соединение?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 41
+  question = "Отличия Soap от Rest и XML от JSON"
+  answer = "Hello World"
+  popularity = 2.63

@@ -1,256 +1,376 @@
 [category]
   id = 13
   title = "SQL"
-  popularity = 73.33
+  popularity = 63.16
 
 [[questions]]
   id = 1
   question = "Уровни изоляции транзакций в БД"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 18.42
 
 [[questions]]
   id = 2
-  question = "Как повысить эффективность выборки записей из большой таблицы? | Опыт оптимизации запросов."
+  question = "Что такое реляционные базы данных?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 2.63
 
 [[questions]]
   id = 3
-  question = "Виды JOIN. Как работает каждый JOIN?"
+  question = "Как повысить эффективность выборки записей из большой таблицы? | Опыт оптимизации запросов."
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 18.42
 
 [[questions]]
   id = 4
-  question = "Нормализация и денормализация. Перечислите формы"
+  question = "Виды JOIN. Как работает каждый JOIN?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 13.16
 
 [[questions]]
   id = 5
-  question = "Индексы в SQL. Что это и для чего используются?"
+  question = "Нормализация и денормализация. Перечислите формы"
   answer = "Hello World"
-  popularity = 40.0
+  popularity = 13.16
 
 [[questions]]
   id = 6
-  question = "Какие основные типы/виды индексов существуют и в каких случаях они применяются?"
+  question = "Индексы в SQL. Что это и для чего используются?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 26.32
 
 [[questions]]
   id = 7
-  question = "В каких случаях целесообразно использовать hash-индекс в базе данных?"
+  question = "Какие основные типы/виды индексов существуют и в каких случаях они применяются?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 10.53
 
 [[questions]]
   id = 8
-  question = "Как организован B-tree индекс и по какому принципу он работает?"
+  question = "В каких случаях целесообразно использовать hash-индекс в базе данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
-  question = "Что хранится в узлах B-дерева и как по нему выполняется поиск?"
+  question = "Как организован B-tree индекс и по какому принципу он работает?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 10
-  question = "В каких ситуациях использование индексов в базе данных снижает эффективность системы или приводит к ухудшению производительности?"
+  question = "Что хранится в узлах B-дерева и как по нему выполняется поиск?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 2.63
 
 [[questions]]
   id = 11
-  question = "Что такое SQL-инъекция?"
+  question = "Недостатки индексов | В каких ситуациях использование индексов в базе данных снижает эффективность системы или приводит к ухудшению производительности? | Почему много индексов замедляет INSERT, UPDATE, DELETE?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 13.16
 
 [[questions]]
   id = 12
-  question = "Что такое транзакция в базе данных и какими свойствами ACID она обладает?"
+  question = "Что такое SQL-инъекция?"
   answer = "Hello World"
-  popularity = 20.0
+  popularity = 2.63
 
 [[questions]]
   id = 13
-  question = "Какими инструментами вы пользовались для анализа плана выполнения (Профилирования) запроса (EXPLAIN/EXPLAIN ANALYZE)?"
+  question = "Как защититься от SQL-инъекций?"
   answer = "Hello World"
-  popularity = 26.67
+  popularity = 2.63
 
 [[questions]]
   id = 14
+  question = "Что такое транзакция в базе данных и какими свойствами ACID она обладает?"
+  answer = "Hello World"
+  popularity = 18.42
+
+[[questions]]
+  id = 15
+  question = "Расскажите про ACID"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 16
+  question = "Какими инструментами вы пользовались для анализа плана выполнения (Профилирования) запроса (EXPLAIN/EXPLAIN ANALYZE)?"
+  answer = "Hello World"
+  popularity = 10.53
+
+[[questions]]
+  id = 17
   question = "Какую информацию о выполнении SQL-запроса позволяет получить EXPLAIN/EXPLAIN ANALYZE?"
   answer = "Hello World"
   popularity = 0.0
 
 [[questions]]
-  id = 15
+  id = 18
   question = "EXPLAIN vs EXPLAIN ANALYZE"
   answer = "Hello World"
-  popularity = 20.0
-
-[[questions]]
-  id = 16
-  question = "Что делает команда VACUUM в PostgreSQL и зачем она нужна?"
-  answer = "Hello World"
-  popularity = 20.0
-
-[[questions]]
-  id = 17
-  question = "Что делает команда TRUNCATE и чем она отличается от DELETE?"
-  answer = "Hello World"
-  popularity = 6.67
-
-[[questions]]
-  id = 18
-  question = "Какие существуют способы решения проблемы распределённых транзакций?"
-  answer = "Hello World"
-  popularity = 6.67
+  popularity = 10.53
 
 [[questions]]
   id = 19
-  question = "Какие решения по конфигурации базы данных обычно принимает разработчик на проекте?"
+  question = "Что такое сбор статистики в PostgreSQL? | Для чего нужен ANALYZE в PostgreSQL?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 20
-  question = "Как в PostgreSQL работает блокировка строки (row-level lock)?"
+  question = "Что делает команда VACUUM в PostgreSQL и зачем она нужна?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 10.53
 
 [[questions]]
   id = 21
-  question = "Что обычно используют в качестве Primary Key в реляционной базе данных (Какие типы данных чаще всего выбирают)?"
+  question = "Что делает команда TRUNCATE и чем она отличается от DELETE?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 22
-  question = "Как работает автоинкрементный id через sequence в PostgreSQL?"
+  question = "Какие существуют способы решения проблемы распределённых транзакций?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 23
-  question = "Можно ли создать таблицу без Primary Key?"
+  question = "Какие решения по конфигурации базы данных обычно принимает разработчик на проекте?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 24
-  question = "Чем отличается суррогатный ключ от натурального ключа?"
+  question = "Как в PostgreSQL работает блокировка строки (row-level lock)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 25
-  question = "Что такое GIN index в PostgreSQL?"
+  question = "Что такое блокировки в базе данных? Как они работают и какие бывают?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 26
-  question = "LEFT JOIN, RIGHT JOIN"
+  question = "Что обычно используют в качестве Primary Key в реляционной базе данных (Какие типы данных чаще всего выбирают)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 27
-  question = "Как работает FULL OUTER JOIN?"
+  question = "Как работает автоинкрементный id через sequence в PostgreSQL?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 28
-  question = "Что такое обычный JOIN в SQL?"
+  question = "Можно ли создать таблицу без Primary Key?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 29
-  question = "Что обычно должно быть условием соединения в JOIN?"
+  question = "Чем отличается суррогатный ключ от натурального ключа?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 30
-  question = "Можно ли написать JOIN ON 1=1 и что будет результатом такого соединения?"
+  question = "Что такое GIN index в PostgreSQL?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 31
-  question = "Опыт с самописными (пользовательскими, кастомными) функциями в БД?"
+  question = "LEFT JOIN, RIGHT JOIN"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 32
-  question = "Как PostgreSQL обеспечивает консистентность данных при репликации?"
+  question = "Как работает FULL OUTER JOIN?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 33
-  question = "Какие связи между таблицами бывают в реляционных БД? (one to one, one to many, many to many)"
+  question = "Что такое обычный JOIN в SQL?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 34
-  question = "Что такое репликация и шардирование в базах данных?"
+  question = "Что обычно должно быть условием соединения в JOIN?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 35
-  question = "Что такое constraints в SQL? | Какие ограничения бывают в реляционных базах данных?"
+  question = "Можно ли написать JOIN ON 1=1 и что будет результатом такого соединения?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 36
-  question = "Для чего используются LIMIT и OFFSET в SQL?"
+  question = "Опыт с самописными (пользовательскими, кастомными) функциями в БД?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 37
-  question = "Что делает оператор WITH в SQL?"
+  question = "Как PostgreSQL обеспечивает консистентность данных при репликации?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 38
-  question = "Для чего нужны подзапросы в SQL?"
+  question = "Какие связи между таблицами бывают в реляционных БД? (one to one, one to many, many to many)"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 39
-  question = "Можно ли использовать JOIN и подзапрос в одном SQL-запросе?"
+  question = "Что такое репликация и шардирование в базах данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 40
-  question = "Что такое хранимая процедура в SQL?"
+  question = "Какие бывают способы репликации в базах данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 41
-  question = "Что такое составной индекс в SQL?"
+  question = "Что такое constraints в SQL? | Какие ограничения бывают в реляционных базах данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 42
+  question = "Для чего используются LIMIT и OFFSET в SQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 43
+  question = "Что делает оператор WITH в SQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 44
+  question = "Для чего нужны подзапросы в SQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 45
+  question = "Можно ли использовать JOIN и подзапрос в одном SQL-запросе?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 46
+  question = "Что такое хранимая процедура в SQL?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 47
+  question = "Чем отличаются хранимые процедуры и хранимые функции?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 48
+  question = "Что такое составной индекс в SQL?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 49
   question = "Что такое VIEW в SQL?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 50
+  question = "Какие сущности есть в PostgreSQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 51
+  question = "Какие инструменты используют для работы с БД"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 52
+  question = "Что такое и зачем нужно партицирование"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 53
+  question = "Что такое CTE в PostgreSQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 54
+  question = "Как объявить индекс в SQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 55
+  question = "Чем отличаются реляционные и нереляционные базы данных? | SQL vs NoSQL"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 56
+  question = "Как выполняется SQL-запрос в PostgreSQL под капотом? | Что происходит после отправки SQL-запроса в PostgreSQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 57
+  question = "Как работает, для чего используется и что происходит при SELECT FOR UPDATE в PostgreSQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 58
+  question = "Что такое и для чего нужен buffer cache (Буферный Кэш) в базе данных?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 59
+  question = "Что такое и зачем нужен ForeignKey (Внешний ключ)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 60
+  question = "Какие задачи решают с PostgreSQL в backend-разработке?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 61
+  question = "Что такое и как работает CHECK constraint в SQL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 62
+  question = "Что такое и как работает FOREIGN KEY REFERENCES?"
+  answer = "Hello World"
+  popularity = 2.63

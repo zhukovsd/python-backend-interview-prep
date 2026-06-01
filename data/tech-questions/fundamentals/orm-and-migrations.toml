@@ -1,46 +1,82 @@
 [category]
   id = 11
   title = "SQLAlchemy ORM и миграции"
-  popularity = 20.0
+  popularity = 23.68
 
 [[questions]]
   id = 1
   question = "Что такое ORM-подход в разработке и какие преимущества он предоставляет при работе с данными?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 2
   question = "С каким подходом в SQLAlchemy велась работа: через Core, ORM"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "Каким образом в SQLAlchemy реализуется связывание таблиц через foreign key и relationship?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 4
   question = "Какие риски и особенности нужно учитывать при использовании relationship в SQLAlchemy?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
   question = "В какой момент ORM подгружает связанные модели при работе со связями?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Что представляет собой проблема N+1 запросов при работе с базой данных или ORM?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 7
   question = "Как синхронизируют миграции базы данных в команде и решают конфликты между ними?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 8
+  question = "За счёт чего SQLAlchemy может работать асинхронно?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 9
+  question = "Как откатить миграции в Django или Alembic"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 10
+  question = "Какой инструмент используется для миграций вместе с FastAPI + SQLAlchemy?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "Как подключиться к базе данных без контекстного менеджера with"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
+  question = "Что такое и зачем нужны миграции базы данных?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 13
+  question = "Чем отличается SQLAlchemy ORM от SQLAlchemy Core?"
+  answer = "Hello World"
+  popularity = 2.63

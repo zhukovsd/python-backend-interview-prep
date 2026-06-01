@@ -1,64 +1,202 @@
 [category]
   id = 17
   title = "Брокеры сообщений и Celery"
-  popularity = 20.0
+  popularity = 28.95
 
 [[questions]]
   id = 1
-  question = "Для каких целей в системе применялся Celery?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Что такое Celery"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 2
-  question = "Насколько хорошо знакомы с гарантиями доставки сообщений в брокерах?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Для каких целей в системе применялся Celery?"
+  answer = "Hello World"
+  popularity = 5.26
 
 [[questions]]
   id = 3
-  question = "Гарантии доставки в RabbitMQ"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Для каких целей в системе применялся RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 4
-  question = "Из каких основных компонентов состоит брокер сообщений?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Как разделить большую Celery task на несколько маленьких? | Celery chain, group, chord для разделения задач"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 5
-  question = "Механизм доставки сообщений в RabbitMQ"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Преимущества очередей (Celery)"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 6
-  question = "Какие сообщения и данные обычно отправляют через RabbitMQ?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Насколько хорошо знакомы с гарантиями доставки сообщений в брокерах?"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 7
-  question = "Как работает consumer в RabbitMQ и как происходит доставка и подтверждение сообщений?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Гарантии доставки в RabbitMQ"
+  answer = "Hello World"
+  popularity = 5.26
 
 [[questions]]
   id = 8
-  question = "Как версионируют сообщения и поддерживают несколько версий схемы в RabbitMQ?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Из каких основных компонентов состоит брокер сообщений?"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 9
-  question = "RabbitMQ vs Kafka"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Механизм доставки сообщений в RabbitMQ"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 10
+  question = "Что делать, если очередь сообщений не гарантирует порядок?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "Какие сообщения и данные обычно отправляют через RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
+  question = "Как работает consumer в RabbitMQ и как происходит доставка и подтверждение сообщений?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 13
+  question = "Как версионируют сообщения и поддерживают несколько версий схемы в RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 14
+  question = "RabbitMQ vs Kafka"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 15
+  question = "Какой формат сообщений используется в Apache Kafka?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 16
   question = "Какие основные роли и сущности существуют в RabbitMQ?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 17
+  question = "Что такое партиция (partition) в Kafka?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 18
+  question = "Что будет, если партиция (partition) в Kafka заполнится?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 19
+  question = "Что такое routing key в RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 20
+  question = "Как решать проблемы с нагрузкой в backend-приложении?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 21
+  question = "Как сделать, чтобы два consumer-а получили одно и то же сообщение?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 22
+  question = "Что будет, если не удалось отправить сообщение в RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 23
+  question = "Что отдавать клиенту, если задача должна быть поставлена в RabbitMQ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 24
+  question = "Что делать, если в проекте нужно заменить брокер сообщений?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 25
+  question = "Что делать, если ни один message broker не подходит под требования?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 26
+  question = "Можно ли инкапсулировать запуск Celery-задач за собственным интерфейсом? | Почему бизнес-сервис не должен напрямую зависеть от task.delay()?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 27
+  question = "Когда Celery-задача считается запущенной?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 28
+  question = "Что запускается, когда Celery worker берёт задачу из очереди?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "Что такое Celery app и зачем он нужен?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "Как Celery управляет состояниями task?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 31
+  question = "Как отменить задачу (task) в Celery?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 32
+  question = "HTTP REST vs Брокеры сообщений"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 33
+  question = "Можно ли сказать, что worker — это отдельный Python-процесс?"
+  answer = "Hello World"
+  popularity = 2.63

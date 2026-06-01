@@ -1,106 +1,118 @@
 [category]
   id = 9
   title = "FastAPI"
-  popularity = 46.67
+  popularity = 26.32
 
 [[questions]]
   id = 1
   question = "Какая библиотека используется в FastAPI для валидации данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 2
   question = "Для чего используется pydantic"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "Как реализован механизм внедрения зависимостей (DI | Dependency Injection)?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 4
   question = "Для чего нужен Depends в FastAPI?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 7.89
 
 [[questions]]
   id = 5
   question = "Может ли Depends принимать асинхронную функцию"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Как внутри устроен Depends в FastAPI?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 7
   question = "Что можно делать с Depends() в FastAPI кроме выполнения кода до endpoint?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
   question = "Как использовать Depends() для бизнес-логики в FastAPI?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
   question = "Почему в FastAPI используется название Depends"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 10
   question = "Django vs FastAPI"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 11
   question = "Каким образом FastAPI обрабатывает синхронный endpoint внутри асинхронной среды выполнения?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 12
   question = "Как реализовать выполнение предварительной инициализации или подготовительных действий перед запуском приложения?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 13
   question = "Как корректно организовать запуск фонового бесконечного процесса или дополнительного цикла внутри асинхронного приложения?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 14
   question = "Почему FastAPI не поддерживает XML сериализацию из коробки?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 15
   question = "Как FastAPI обрабатывает входящий запрос?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 16
   question = "Какой web-server встроен в FastAPI?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 17
   question = "Что такое BackgroundTasks в FastAPI?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 18
+  question = "Какой вид Response по умолчанию используется в FastAPI?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 19
+  question = "Какие ORM используют с FastAPI? | Использовали ли вы SQLAlchemy с FastAPI?"
+  answer = "Hello World"
+  popularity = 2.63

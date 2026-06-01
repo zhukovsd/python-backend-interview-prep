@@ -17,3 +17,7 @@
 [[exercises]]
   id = 4
   exercise = "Что делает комада: docker run --rm -it --name=py python:latest p$"
+
+[[exercises]]
+  id = 5
+  exercise = "Что вы будете проверять на Linux-сервере, если после деплоя приложение стало тормозить?"

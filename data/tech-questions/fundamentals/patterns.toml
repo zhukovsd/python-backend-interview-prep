@@ -1,34 +1,82 @@
 [category]
   id = 2
   title = "Паттерны"
-  popularity = 26.67
+  popularity = 28.95
 
 [[questions]]
   id = 1
   question = "Какие группы паттернов (паттерны) вы можете назвать (порождающие, структурные, поведенческие) и приведите примеры из каждой?"
   answer = "hello world"
-  popularity = 20.0
+  popularity = 10.53
 
 [[questions]]
   id = 2
   question = "Как реализовать паттерн Singleton и какие есть основные способы реализации?"
   answer = "hello world"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "Чем отличается паттерн Декоратор от Адаптера?"
   answer = "hello world"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 4
   question = "Паттерн Адаптер"
   answer = "hello world"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
   question = "Паттерн Декоратор"
   answer = "hello world"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 6
+  question = "Dependency Injection (DI)"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 7
+  question = "Архитектурный паттерн CQRS"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 8
+  question = "Паттерн Стратегия"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 9
+  question = "Паттерн Наблюдатель"
+  answer = "hello world"
+  popularity = 5.26
+
+[[questions]]
+  id = 10
+  question = "Паттерн Репозиторий"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "Архитектура Stateful и Stateless — в чём различия и почему стремимся к Stateless"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
+  question = "Что такое луковичная архитектура? (Onion architecture)"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 13
+  question = "Какие архитектурные решения вы знаете?"
+  answer = "hello world"
+  popularity = 2.63

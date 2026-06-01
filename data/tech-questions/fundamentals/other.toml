@@ -1,172 +1,268 @@
 [category]
   id = 21
   title = "Другое"
-  popularity = 66.67
+  popularity = 55.26
 
 [[questions]]
   id = 1
   question = "Знакомы ли вы с книгой чистый код?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 2
   question = "Какие недостатки у строгого следования практикам чистого кода?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "В каких случаях следование принципам чистого кода ухудшает эффективность?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 4
   question = "Читали ли вы материалы, оспаривающие общепринятые рекомендации по стилю программирования?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 5
   question = "Программа может взаимодействовать с процессором напрямую?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Как программа взаимодействует через операционную систему?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 7
   question = "Знакомы ли вы с архитектурой аппаратной части компьютера?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 8
   question = "Что такое сигналы в операционных системах и для чего они используются?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 9
   question = "Какое у вас направление (специализация/профиль) высшего образования?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 10
   question = "Как выполняется программа на уровне процессора и памяти?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 11
   question = "Какими методами можно кратно ускорить выполнение программы?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 12
   question = "Что такое идемпотентность?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 13
   question = "Какими способами обеспечивают идемпотентность операций в веб-сервисах и API?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 14
   question = "Что такое API и какую роль он выполняет во взаимодействии между различными программными компонентами или системами?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 15
   question = "Как зависит число одновременно выполняемых потоков от количества доступных ядер?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 16
   question = "Были ли задачи, связанные с системным проектированием и выбором архитектурных решений?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 17
   question = "Какие меры защиты от DoS- и DDoS-атак обычно применяются в backend-системах?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 18
   question = "Какие библиотеки используют для работы с API"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 19
   question = "Что такое reflection (Рефлексия) в программировании?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 20
   question = "Что такое асимптотическая сложность (вычислительная сложность)?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 21
   question = "Что такое цикломатическая сложность?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 22
   question = "Чем отличаются временная и пространственная сложность?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 23
   question = "Какая асимптотическая сложность бинарного поиска?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 24
   question = "Какая асимптотическая сложность тернарного поиска?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 25
   question = "Как определить Big On (Сложность) функции?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 26
   question = "Что такое Big On (Сложность) функции"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 5.26
 
 [[questions]]
   id = 27
   question = "Как вы оцениваете свои знания в базах данных?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 28
   question = "Что такое сериализация и десереализация?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "С помощью каких инструментов проверяются аннотации типов"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "Какие возможности появились в OpenAPI 3.0?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 31
+  question = "Какие линтеры для Python вы знаете?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 32
+  question = "Какие библиотеки | инструменты используют для логирования в Python"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 33
+  question = "Как организовать сбор и передачу логов приложения?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 34
+  question = "Какие инструменты мониторинга применяют для Python-приложений?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 35
+  question = "Как добавлять метки к метрикам в Prometheus?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 36
+  question = "Что такое шифрование и ключ шифрования?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 37
+  question = "Отличия симметричного и ассиметричного шифрования"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 38
+  question = "Какой ключ хранится в TLS/SSL-сертификате?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 39
+  question = "Какие метрики обычно собирают в backend-приложении?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 40
+  question = "Что такое Apache Airflow"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 41
+  question = "Где хранятся DAG-и (схемы) в Airflow?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 42
+  question = "Какие шаблонизаторы вы использовали?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 43
+  question = "Что такое AJAX?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 44
+  question = "Библиотеки httpx vs requests"
+  answer = "Hello World"
+  popularity = 2.63
