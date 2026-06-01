@@ -1,0 +1,7 @@
+[category]
+  id = 11
+  title = "Брокеры сообщений и Celery"
+
+[[exercises]]
+  id = 1
+  exercise = "Как решить проблему неуспешного создания заказа через Kafka?"

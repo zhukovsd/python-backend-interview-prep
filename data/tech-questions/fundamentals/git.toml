@@ -1,40 +1,46 @@
 [category]
   id = 19
   title = "Git"
-  popularity = 26.67
+  popularity = 15.79
 
 [[questions]]
   id = 1
   question = "Git. Для чего нужен Cherry Pick"
-  answer = "Хеллоу Ворлд"
-  popularity = 20.0
+  answer = "Hello World"
+  popularity = 13.16
 
 [[questions]]
   id = 2
-  question = "В чем разница между Git rebase и Git merge?"
-  answer = "Хеллоу Ворлд"
-  popularity = 13.33
+  question = "Для чего нужен Rebase"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 3
-  question = "В чем разница между Git fetch и Git pull?"
-  answer = "Хеллоу Ворлд"
-  popularity = 13.33
+  question = "В чем разница между Git rebase и Git merge?"
+  answer = "Hello World"
+  popularity = 7.89
 
 [[questions]]
   id = 4
-  question = "Как отменить коммит в Git?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "В чем разница между Git fetch и Git pull?"
+  answer = "Hello World"
+  popularity = 5.26
 
 [[questions]]
   id = 5
-  question = "Как посмотреть историю коммитов в Git?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  question = "Как отменить коммит в Git?"
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 6
+  question = "Как посмотреть историю коммитов в Git?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 7
   question = "Как переключиться на конкретный коммит в Git?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63

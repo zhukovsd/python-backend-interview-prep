@@ -1,64 +1,100 @@
 [category]
   id = 5
   title = "Сборщик мусора и GiL"
-  popularity = 40.0
+  popularity = 36.84
 
 [[questions]]
   id = 1
   question = "Как определяется момент освобождения памяти объекта?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 2
   question = "Что такое GIL (Global Interpreter Lock)"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 18.42
 
 [[questions]]
   id = 3
-  question = "Как устроен механизм сборки мусора?"
+  question = "Что такое и как устроен механизм сборки мусора?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 18.42
 
 [[questions]]
   id = 4
-  question = "Где хранится счётчик ссылок у объекта?"
+  question = "В чем основная идея введения механизма поколений"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
-  question = "Какой недостаток механизма подсчёта ссылок?"
+  question = "Где хранится счётчик ссылок у объекта?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
-  question = "Как называется механизм удаления циклических ссылок?"
+  question = "Какой недостаток механизма подсчёта ссылок?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 7
-  question = "В каких случаях память не освобождается после удаления ссылок?"
+  question = "Как называется механизм удаления циклических ссылок?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
-  question = "Как GIL влияет на асинхронность | многопоточность | многопроцессорность"
+  question = "Как Python разрывает циклические ссылки?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
-  question = "Как GIL ограничивает потоки в одном процессе?"
+  question = "В каких случаях память не освобождается после удаления ссылок?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 10
+  question = "Как GIL влияет на асинхронность | многопоточность | многопроцессорность"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "Как GIL ограничивает потоки в одном процессе?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
   question = "Почему GIL не удаляют полностью в новых версиях Python?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 13
+  question = "Зачем (С какой целью) вообще был придуман GiL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 14
+  question = "Можно ли самостоятельно переключить GIL на другой поток?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 15
+  question = "Освобождается/Отпускается ли GIL во время выполнения Python-программы?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 16
+  question = "Является ли GIL частью языка Python или деталью реализации CPython?"
+  answer = "Hello World"
+  popularity = 2.63

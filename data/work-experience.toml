@@ -1,94 +1,169 @@
 [[categories]]
   id = 1
   title = "Общие вопросы"
-  popularity = 53.33
+  popularity = 73.68
 
   [[categories.questions]]
     id = 1
     question = "Расскажите о проекте/о себе/почему решили сменить работу"
-    popularity = 46.67
+    popularity = 63.16
 
   [[categories.questions]]
     id = 2
     question = "Размер команды? Из кого состояла. Как работали с бизнес требованиями. Как была организована работа в команде?"
-    popularity = 0.0
+    popularity = 18.42
 
   [[categories.questions]]
     id = 3
-    question = "Системы трекинга"
-    popularity = 0.0
+    question = "Приведите примеры задач которые выполняли."
+    popularity = 5.26
 
   [[categories.questions]]
     id = 4
-    question = "Как писали документацию? Где хранили? Confluence?"
-    popularity = 0.0
+    question = "Системы трекинга"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 5
-    question = "Методология разработки приложений"
-    popularity = 0.0
+    question = "Как писали документацию? Где хранили? Confluence?"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 6
     question = "Какие правила использовались при апруве ревью?"
-    popularity = 0.0
+    popularity = 2.63
 
   [[categories.questions]]
     id = 7
-    question = "Занимались рефакторингом? Работали с чужим кодом?"
-    popularity = 0.0
+    question = "Как оценивали задачи?"
+    popularity = 5.26
 
   [[categories.questions]]
     id = 8
-    question = "Как оценивали задачи?"
-    popularity = 0.0
+    question = "Расскажите о флоу разработки?"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 9
-    question = "Расскажи про GitFlow"
-    popularity = 0.0
+    question = "Расскажи про самую интересную/трудную/запоминающуюся задачу"
+    popularity = 5.26
 
   [[categories.questions]]
     id = 10
-    question = "Расскажите о флоу разработки?"
-    popularity = 0.0
+    question = "Расскажи про стек"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 11
-    question = "Расскажи про самую интересную/трудную задачу"
-    popularity = 0.0
+    question = "Опишите ситуацию, когда вы допустили серьёзную ошибку в работе."
+    popularity = 5.26
 
   [[categories.questions]]
     id = 12
-    question = "Какой RPS? Какой объем данных?"
-    popularity = 0.0
+    question = "Опишите архитектуру вашей системы: из каких частей она состоит, как они взаимодействуют и как проходит выполнение запроса (или бизнес-процесса) от начала до конца"
+    popularity = 5.26
 
   [[categories.questions]]
     id = 13
-    question = "Опишите архитектуру вашей системы: из каких частей она состоит, как они взаимодействуют и как проходит выполнение запроса (или бизнес-процесса) от начала до конца"
-    popularity = 6.67
+    question = "Опишите пользовательский сценарий (user flow / use-case): как пользователь взаимодействует с системой от первого действия до получения результата"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 14
-    question = "Опишите пользовательский сценарий (user flow / use-case): как пользователь взаимодействует с системой от первого действия до получения результата"
-    popularity = 6.67
+    question = "С какими БД работал / Какие БД использовались на проекте?"
+    popularity = 10.53
 
   [[categories.questions]]
     id = 15
-    question = "С какими БД работал / Какие БД использовались на проекте?"
-    popularity = 13.33
+    question = "Какими способами микросервисы обмениваются данными?"
+    popularity = 5.26
 
   [[categories.questions]]
     id = 16
-    question = "Какими способами микросервисы обмениваются данными?"
-    popularity = 13.33
+    question = "Как вы применяли ORM для работы с базой данных?"
+    popularity = 2.63
 
   [[categories.questions]]
     id = 17
-    question = "Как вы применяли ORM для работы с базой данных?"
-    popularity = 6.67
+    question = "Виды и инструмены тестирования"
+    popularity = 15.79
 
   [[categories.questions]]
     id = 18
-    question = "Виды и инструмены тестирования"
-    popularity = 20.0
+    question = "Почему вы решили уйти с текущего места работы?"
+    popularity = 7.89
+
+  [[categories.questions]]
+    id = 19
+    question = "Что нравится в работе?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 20
+    question = "Что не нравится в работе?"
+    popularity = 5.26
+
+  [[categories.questions]]
+    id = 21
+    question = "Опишите идеального руководителя"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 22
+    question = "Были ли на прошлом месте работы переработки?"
+    popularity = 5.26
+
+  [[categories.questions]]
+    id = 23
+    question = "Как часто релизы?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 24
+    question = "Были ли у вас разногласия с командой или тимлидом?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 25
+    question = "Как решали конфликты?"
+    popularity = 5.26
+
+  [[categories.questions]]
+    id = 26
+    question = "Как вы подходите к декомпозиции большой задачи?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 27
+    question = "Чаще работаешь с ORM или с чистыми SQL запросами?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 28
+    question = "Как вы понимаете, какой паттерн проектирования подходит для конкретной задачи?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 29
+    question = "Опыт с Open Sourse"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 30
+    question = "Приходилось ли вам поддерживать production-системы, работающие в real-time? | Приходилось ли вам поддерживать продакшн, работающий в реальном времени?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 31
+    question = "В какой операционной системе вы обычно работаете?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 32
+    question = "Чем бы вы хотели заниматься на новой позиции? | Что для вас является интересным проектом?"
+    popularity = 2.63
+
+  [[categories.questions]]
+    id = 33
+    question = "По каким критериям вы выбираете между офферами?"
+    popularity = 2.63

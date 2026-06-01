@@ -1,16 +1,46 @@
 [category]
   id = 18
   title = "Микросервисы"
-  popularity = 6.67
+  popularity = 13.16
 
 [[questions]]
   id = 1
   question = "Почему shared database считается плохой практикой для микросервисов?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
 
 [[questions]]
   id = 2
   question = "Как организуют аутентификацию и авторизацию между микросервисами?"
-  answer = "Хеллоу Ворлд"
-  popularity = 6.67
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 3
+  question = "Монолит vs Микросервисы"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 4
+  question = "Что такое Микросервисы?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 5
+  question = "Как DDD помогает выделять микросервисы? | Как выделить микросервис из монолита?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 6
+  question = "Какие есть риски безопасности при выделении микросервиса?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 7
+  question = "Стали бы вы жертвовать независимостью БД микросервиса при нехватке ресурсов?"
+  answer = "Hello World"
+  popularity = 2.63

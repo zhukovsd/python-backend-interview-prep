@@ -1,148 +1,220 @@
 [category]
   id = 7
   title = "Типы данных и Коллекции"
-  popularity = 73.33
+  popularity = 57.89
 
 [[questions]]
   id = 1
   question = "Как работает set?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 2
   question = "Что представляет собой тип данных множество (set)"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
   question = "Как разрешаются коллизии в hash-таблицах?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 4
   question = "Какие типы данных существуют в python?"
   answer = "Hello World"
-  popularity = 46.67
+  popularity = 34.21
 
 [[questions]]
   id = 5
   question = "Зачем в Python есть mutable и immutable типы? Почему не сделать изменяемую строку?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Чем отличается списки от кортежа? | list vs tuple"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 13.16
 
 [[questions]]
   id = 7
   question = "Чем отличается списки от словаря? | list vs dict"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
   question = "Возможен ли доступ к элементу множества (set) по позиции (индексу)?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 9
-  question = "Как реализован список (list) на уровне внутренней структуры данных?"
+  question = "Как реализованы список (list) и кортеж (tuple) на уровне внутренней структуры данных?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 7.89
 
 [[questions]]
   id = 10
   question = "Как происходит выделение памяти для списка и его внутреннего хранилища?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 11
   question = "Как ведут себя элементы списка в момент увеличения его внутренней ёмкости?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 12
   question = "Массив vs список"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 13
   question = "Почему при создании списка под его внутреннее хранилище выделяется массив фиксированной длины и определённого типа?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 14
   question = "В какой структуре данных поиск выполняется эффективнее — в списке или во множестве?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 15
   question = "С какими структурами данных из модуля collections вы работали?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 16
-  question = "Что может выступать ключом в словаре и каким образом устроена внутренняя структура словаря?"
+  question = "Что может выступать ключом в словаре (dict) и каким образом устроена внутренняя структура словаря?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 18.42
 
 [[questions]]
   id = 17
-  question = "Может ли кортеж, использоваться в качестве ключа словаря?"
+  question = "Может ли кортеж (tuple), использоваться в качестве ключа словаря (dict)?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 7.89
 
 [[questions]]
   id = 18
-  question = "Являются ли bytearray и bytes изменяемыми типами"
+  question = "Может ли кортеж (tuple) содержать изменяемые объекты?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 19
-  question = "Какая сложность поиска в list?"
+  question = "Можно ли использовать объект класса как ключ словаря (dict)?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 2.63
 
 [[questions]]
   id = 20
-  question = "Когда list.append() в Python не O(1)?"
+  question = "Являются ли bytearray и bytes изменяемыми типами"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 21
-  question = "Какая сложность поиска в set?"
+  question = "Какая сложность поиска/вставки в list?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 22
-  question = "Что значит неизменяемый объект в Python?"
+  question = "Когда list.append() в Python не O(1)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 23
-  question = "Какие есть альтернативы dict в Python?"
+  question = "Когда list.append() в Python больше O(n)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 24
+  question = "Какая сложность поиска в set?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 25
+  question = "Что значит неизменяемый объект в Python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 26
+  question = "Какие есть альтернативы dict в Python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 27
   question = "Какие основные методы есть у структуры list в Python?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 28
+  question = "Как получить предпоследний элемент списка (list)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "Что такое и как работаюь срезы (slicing)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "Что будет, если обратиться к несуществующему ключу в словаре (dict)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 31
+  question = "Какие знаете способы сортировки данных в словаре (dict)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 32
+  question = "Какая структура данных лучше всего подходит для быстрого поиска? | Скорость поиска в dict"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 33
+  question = "Когда использовать кортеж (tuple) вместо списка (list)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 34
+  question = "Что такое конкатенация и как она влияет на изменяемые и неизменяемые объекты"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 35
+  question = "В чём разница между изменением вложенного в кортеж списка через .append() и через +=?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 36
+  question = "(Общий вопрос) Как устроены / из чего состоят списки, кортежи, множества и др под капотом"
+  answer = "Hello World"
+  popularity = 2.63

@@ -1,40 +1,88 @@
 [category]
   id = 10
   title = "Django и Django REST Fraemwork"
-  popularity = 13.33
+  popularity = 21.05
 
 [[questions]]
   id = 1
   question = "Как устроена архитектура Django и какие основные компоненты входят в её модель взаимодействия?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 2
   question = "Что представляет собой менеджер модели в Django ORM и какую роль он выполняет при работе с объектами базы данных?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 3
-  question = "Что такое middleware в Django и какую роль он играет в обработке HTTP-запроса и HTTP-ответа?"
+  question = "Что такое middleware и какую роль он играет в обработке HTTP-запроса и HTTP-ответа?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 4
-  question = "Как работает механизм CSRF-защиты в Django и какую роль играет CSRF-токен?"
+  question = "Что такое и как работает механизм CSRF-защиты в Django и какую роль играет CSRF-токен?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 5
   question = "Что такое сигналы в Django и в каких случаях их применяют?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 6
   question = "Для чего в Django используются метаклассы?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 7
+  question = "Что такое OuterRef в Django ORM?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 8
+  question = "Чем отличается select_related от prefetch_related"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 9
+  question = "Какие подходы вы использовали бы для оптимизации Django-приложения?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 10
+  question = "Для чего нужен метод dispatch в BaseView в DRF"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "View Set vs Base View"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
+  question = "Объясни как происходит обработка HTTP запросов на Django от получения запроса клиентом до отдачи ответа сервером"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 13
+  question = "Какие механизмы наследования моделей есть в Django?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 14
+  question = "Что такое и зачем нужен GenericForeignKey в Django?"
+  answer = "Hello World"
+  popularity = 2.63

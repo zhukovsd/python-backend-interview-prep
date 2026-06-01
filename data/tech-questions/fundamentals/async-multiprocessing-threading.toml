@@ -1,118 +1,292 @@
 [category]
   id = 8
   title = "Асинхронность Многопоточность Многопроцессорность"
-  popularity = 46.67
+  popularity = 55.26
 
 [[questions]]
   id = 1
   question = "Что такое асинхронность и как она устроена?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 18.42
 
 [[questions]]
   id = 2
-  question = "Что такое конкурентность?"
+  question = "Что такое конкурентность и парралельность?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 3
-  question = "Чем отличаются асинхронность и многопоточность?"
+  question = "Чем отличаются асинхронность, многопроцессорность и многопоточность? | Виды конкурентности"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 15.79
 
 [[questions]]
   id = 4
   question = "Многопоточность vs Многопроцессорность | threading vs multiprocessing"
   answer = "Hello World"
-  popularity = 26.67
+  popularity = 15.79
 
 [[questions]]
   id = 5
-  question = "Для каких типов задач целесообразно использовать асинхронность, многопоточность, мультипроцессность (I/O-bound vs CPU-bound)?"
+  question = "Что такое многопроцессорность, процесс и зачем нужен multiprocessing"
   answer = "Hello World"
-  popularity = 26.67
+  popularity = 5.26
 
 [[questions]]
   id = 6
-  question = "Как реализована модель асинхронного выполнения?"
+  question = "Что такое и чем отличается вытесняющая многозадачность от кооперативной?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 7
-  question = "Что обозначают ключевые слова async и await в механизме корутин?"
+  question = "Что такое Гринлеты (greenlet) и чем они отличаются от Асинхронности"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 8
-  question = "Какими способами реализовать конкурентность без async/await и как на это влияет GIL?"
+  question = "Какой тип многозадачности используют greenlet?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 9
-  question = "Какие примитивы синхронизации используются в многопоточном программировании?"
+  question = "Для каких типов задач целесообразно использовать асинхронность, многопоточность, мультипроцессность (I/O-bound vs CPU-bound)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 10.53
 
 [[questions]]
   id = 10
-  question = "Какая стандартная библиотека отвечает за асинхронность (async/await) и событийный цикл?"
+  question = "Что такое и зачем нужны потоки в Python?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 11
-  question = "Какие ключевые особенности asyncio как модели конкурентности (event loop, корутины, задачи)?"
+  question = "Как реализована модель асинхронного выполнения?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 12
-  question = "В какие моменты event loop переключается между задачами в асинхронном выполнении?"
+  question = "Что обозначают ключевые слова async и await в механизме корутин?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 2.63
 
 [[questions]]
   id = 13
-  question = "Как организовать одновременное выполнение нескольких coroutine-задач?"
+  question = "Какими способами реализовать конкурентность без async/await и как на это влияет GIL? | Можно ли реализовать асинхронный подход без asyncio?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 5.26
 
 [[questions]]
   id = 14
-  question = "Как event loop понимает, что можно запустить другую задачу?"
+  question = "Какие примитивы синхронизации используются в многопоточном программировании?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 15
-  question = "Как в asyncio запускать блокирующие операции, чтобы не останавливать event loop? (run_in_excecutor)"
+  question = "Какая стандартная библиотека отвечает за асинхронность (async/await) и событийный цикл?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 16
-  question = "Как проверить, что объект является корутиной?"
+  question = "Какие ключевые особенности asyncio как модели конкурентности (event loop, корутины, задачи)?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 17
-  question = "Сколько процессов может быть у одного приложения?"
+  question = "В какие моменты event loop переключается между задачами в асинхронном выполнении?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 18
-  question = "Какие инструменты синхронизации потоков есть в Python? | Для чего нужны Lock, RLock, Semaphore, Event, Condition"
+  question = "Как организовать одновременное выполнение нескольких coroutine-задач?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 19
-  question = "Что такое корутины и задачи"
+  question = "Как event loop понимает, что можно запустить другую задачу?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 20
+  question = "Как в asyncio запускать блокирующие операции, чтобы не останавливать event loop? (run_in_excecutor)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 21
+  question = "Как проверить, что объект является корутиной?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 22
+  question = "Сколько процессов может быть у одного приложения?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 23
+  question = "Какие инструменты синхронизации потоков есть в Python? | Для чего нужны Lock, RLock, Semaphore, Event, Condition"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 24
+  question = "Что такое корутины и задачи?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 25
+  question = "Потокобезопасен ли python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 26
+  question = "Как запустить синхронный код в асинхронном проекте"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 27
+  question = "Что такое зелёные потоки?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 28
+  question = "Сколько ядер CPU использует asyncio в Python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 29
+  question = "Что такое event loop в асинхронности?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 30
+  question = "На чём основана асинхронность в Python под капотом?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 31
+  question = "Разница между корутинами и функциями"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 32
+  question = "Что такое Race condition (состояние гонки)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 33
+  question = "Может ли Python-приложение использовать больше одного ядра CPU?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 34
+  question = "Как организовать обмен данными между процессами, если процессы не разделяют память напрямую?"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 35
+  question = "Можно ли использовать общую память в multiprocessing без внешних хранилищ?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 36
+  question = "Как решать проблемы race condition в Python без GIL?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 37
+  question = "Что такое deadlock и какие есть методы решения этой проблемы?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 38
+  question = "Что такое Семафор"
+  answer = "Hello World"
+  popularity = 5.26
+
+[[questions]]
+  id = 39
+  question = "Как задать timeout для asyncio задачи?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 40
+  question = "Что такое hyper threading (гипер потоки)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 41
+  question = "Что такое главный поток в Python и как он влияет на дополнительные потоки?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 42
+  question = "Как дождаться завершения всех потоков в Python? | threading.Thread.join() как работает?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 43
+  question = "Можно ли вручную переключить выполнение с одного потока на другой?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 44
+  question = "Когда операционная система переключает поток? | Какие ситуации приводят к переключению потоков?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 45
+  question = "Как выполнить много корутин (asyncio.gather)?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 46
+  question = "Как отслеживать статус асинхронной задачи, если она может зависнуть?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 47
+  question = "Как управлять асинхронными задачами внутри HTTP request?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 48
+  question = "Какие асинхронные фреймворки вы использовали?"
+  answer = "Hello World"
+  popularity = 2.63

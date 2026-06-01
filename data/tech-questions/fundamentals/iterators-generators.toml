@@ -1,46 +1,82 @@
 [category]
   id = 6
   title = "Итераторы и Генераторы"
-  popularity = 26.67
+  popularity = 23.68
 
 [[questions]]
   id = 1
   question = "Что такое итератор и как он используется?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 5.26
 
 [[questions]]
   id = 2
   question = "Как реализовать протокол итератора и создать собственный итератор?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 7.89
 
 [[questions]]
   id = 3
-  question = "Какую роль выполняет метод __next__ в итерационном протоколе и какую логику он обязан реализовывать?"
+  question = "Опыт с Итераторами"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 4
-  question = "Объект итератор vs итерируемый объект"
+  question = "Как реализовать генератор? (Не используя __iter__ и __next__)"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
 
 [[questions]]
   id = 5
-  question = "Что такое генераторы и какие основные виды генераторов существуют?"
+  question = "Какую роль выполняет метод __next__ в итерационном протоколе и какую логику он обязан реализовывать?"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 2.63
 
 [[questions]]
   id = 6
-  question = "Генераторы vs итераторы"
+  question = "Объект итератор vs итерируемый объект"
   answer = "Hello World"
-  popularity = 13.33
+  popularity = 2.63
 
 [[questions]]
   id = 7
+  question = "Что такое генераторы и какие основные виды генераторов существуют?"
+  answer = "Hello World"
+  popularity = 13.16
+
+[[questions]]
+  id = 8
+  question = "Генераторы vs итераторы"
+  answer = "Hello World"
+  popularity = 13.16
+
+[[questions]]
+  id = 9
   question = "Почему range() в Python не хранит все элементы сразу?"
   answer = "Hello World"
-  popularity = 6.67
+  popularity = 2.63
+
+[[questions]]
+  id = 10
+  question = "Что такое enumerate в Python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 11
+  question = "Как работает else в цикле for"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 12
+  question = "Как сделать класс-генератор в Python?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 13
+  question = "Какие ленивые объекты (вычисления) есть в Python?"
+  answer = "Hello World"
+  popularity = 2.63
