@@ -6,6 +6,7 @@ enableGitInfo: true
 
 params:
   BookTheme: 'auto'
+  BookFavicon: 'favicon_python/favicon.ico'
   BookSection: '*'
   BookPortableLinks: true
   BookRepo: 'https://github.com/zhukovsd/python-backend-interview-prep'
