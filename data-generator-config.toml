@@ -147,11 +147,6 @@ category_filepath = "livecoding/tasks/python/_index.md"
 task_path_prefix = "livecoding/tasks/python/"
 
 [[spreadsheet.livecoding_sheet.categories]]
-name = "System Design"
-category_filepath = "livecoding/tasks/system-design/_index.md"
-task_path_prefix = "livecoding/tasks/system-design/"
-
-[[spreadsheet.livecoding_sheet.categories]]
 name = "ORM"
 category_filepath = "livecoding/tasks/orm/_index.md"
 task_path_prefix = "livecoding/tasks/orm/"
@@ -221,3 +216,7 @@ category_filepath = "thought-exercises/celery.md"
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "Django и Django REST Fraemwork"
 category_filepath = "thought-exercises/django-drf.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "System Design"
+category_filepath = "thought-exercises/system-design.md"
