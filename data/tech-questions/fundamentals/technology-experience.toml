@@ -1,7 +1,7 @@
 [category]
   id = 20
   title = "Опыт с технологиями"
-  popularity = 71.05
+  popularity = 73.68
 
 [[questions]]
   id = 1
@@ -222,5 +222,29 @@
 [[questions]]
   id = 37
   question = "Опыт с Луковичной Архитектурой (Onion architecture)"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 38
+  question = "Опыт с Итераторами"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 39
+  question = "Опыт с асинхронными фреймворками"
+  answer = "hello world"
+  popularity = 2.63
+
+[[questions]]
+  id = 40
+  question = "Опыт с самописными (пользовательскими, кастомными) функциями в БД?"
+  answer = "Hello World"
+  popularity = 2.63
+
+[[questions]]
+  id = 41
+  question = "Опыт контейнеризации Python-приложений?"
   answer = "Hello World"
   popularity = 2.63
