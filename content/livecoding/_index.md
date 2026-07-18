@@ -13,6 +13,5 @@ bookToC = false
 ### 3. [ORM](./tasks/orm/_index.md)
 ### 4. [Web](./tasks/web/_index.md)
 ### 5. [FastAPI](./tasks/fastapi/_index.md)
-### 6. [System Design](./tasks/system-design/_index.md)
 
 ---
