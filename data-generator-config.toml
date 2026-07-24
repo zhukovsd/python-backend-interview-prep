@@ -128,10 +128,6 @@ name = "Git"
 answers_filepath = "tech-questions/fundamentals/git.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Опыт с технологиями"
-answers_filepath = "tech-questions/fundamentals/technology-experience.md"
-
-[[spreadsheet.tech_answer_sheet.categories]]
 name = "Другое"
 answers_filepath = "tech-questions/fundamentals/other.md"
 
