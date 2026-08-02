@@ -377,3 +377,8 @@
     id = 41
     question = "Опыт контейнеризации Python-приложений?"
     popularity = 2.63
+
+  [[categories.questions]]
+    id = 42
+    question = "Опыт с системным проектированием и выбором архитектурных решений"
+    popularity = 2.63
