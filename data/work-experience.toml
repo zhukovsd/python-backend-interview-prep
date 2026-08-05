@@ -150,7 +150,7 @@
 
   [[categories.questions]]
     id = 30
-    question = "Приходилось ли вам поддерживать production-системы, работающие в real-time? | Приходилось ли вам поддерживать продакшн, работающий в реальном времени?"
+    question = "Приходилось ли вам поддерживать production-системы, работающие в real-time?"
     popularity = 2.63
 
   [[categories.questions]]
@@ -160,7 +160,7 @@
 
   [[categories.questions]]
     id = 32
-    question = "Чем бы вы хотели заниматься на новой позиции? | Что для вас является интересным проектом?"
+    question = "Чем бы вы хотели заниматься на новой позиции?"
     popularity = 2.63
 
   [[categories.questions]]

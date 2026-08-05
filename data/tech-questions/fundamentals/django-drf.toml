@@ -1,6 +1,6 @@
 [category]
   id = 10
-  title = "Django и Django REST Fraemwork"
+  title = "Django и Django REST Framework"
   popularity = 21.05
 
 [[questions]]
