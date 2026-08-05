@@ -1,6 +1,6 @@
 +++
-title = 'SQL, базы данных, индексы, ORM и миграции'
-weight = 1
+title = 'SQL, базы данных, миграции'
+weight = 3
 bookFlatSection = true
 bookToC = false
 bookHidden = true
