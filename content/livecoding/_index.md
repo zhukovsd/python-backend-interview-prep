@@ -8,10 +8,8 @@ bookToC = false
 
 ---
 
-### 1. [SQL](./tasks/sql/_index.md)
-### 2. [Python](./tasks/python/_index.md)
-### 3. [ORM](./tasks/orm/_index.md)
-### 4. [Web](./tasks/web/_index.md)
-### 5. [FastAPI](./tasks/fastapi/_index.md)
+### 1. [Python](./tasks/python/_index.md)
+### 2. [SQL](./tasks/sql/_index.md)
+### 3. [FastAPI](./tasks/fastapi/_index.md)
 
 ---
