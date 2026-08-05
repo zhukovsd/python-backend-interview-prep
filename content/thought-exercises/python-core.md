@@ -1,6 +1,6 @@
 +++
 title = 'Python Core'
-weight = 6
+weight = 1
 bookFlatSection = true
 bookToC = false
 bookHidden = true
