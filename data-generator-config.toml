@@ -168,7 +168,7 @@ name = "SQL, базы данных, миграции"
 category_filepath = "thought-exercises/sql-databases.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Django и Django REST Fraemwork"
+name = "Django и Django REST Framework"
 category_filepath = "thought-exercises/django-drf.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
