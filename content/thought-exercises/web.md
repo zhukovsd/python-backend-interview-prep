@@ -1,6 +1,6 @@
 +++
 title = 'Web'
-weight = 8
+weight = 6
 bookFlatSection = true
 bookToC = false
 bookHidden = true
