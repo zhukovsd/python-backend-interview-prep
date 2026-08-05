@@ -1,6 +1,6 @@
 +++
-title = 'Асинхронность - Многопоточность - Многопроцессорность'
-weight = 3
+title = 'Многопоточность и Асинхронность'
+weight = 2
 bookFlatSection = true
 bookToC = false
 bookHidden = true
