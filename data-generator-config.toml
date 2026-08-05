@@ -156,24 +156,24 @@ name = "Опыт с технологиями"
 
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "SQL, базы данных, миграции"
-category_filepath = "thought-exercises/sql-databases.md"
-
-[[spreadsheet.thought_exercise_sheet.categories]]
-name = "ООП"
-category_filepath = "thought-exercises/OOP.md"
+name = "Python Core"
+category_filepath = "thought-exercises/python-core.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "Многопоточность и Асинхронность"
 category_filepath = "thought-exercises/async-thread-multiprocess.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Docker, Linux, деплой"
-category_filepath = "thought-exercises/docker-docker-compose-linux.md"
+name = "SQL, базы данных, миграции"
+category_filepath = "thought-exercises/sql-databases.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Python Core"
-category_filepath = "thought-exercises/python-core.md"
+name = "Django и Django REST Fraemwork"
+category_filepath = "thought-exercises/django-drf.md"
+
+[[spreadsheet.thought_exercise_sheet.categories]]
+name = "Docker, Linux, деплой"
+category_filepath = "thought-exercises/docker-docker-compose-linux.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "FastAPI"
@@ -186,10 +186,6 @@ category_filepath = "thought-exercises/web.md"
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "Брокеры сообщений и Celery"
 category_filepath = "thought-exercises/celery.md"
-
-[[spreadsheet.thought_exercise_sheet.categories]]
-name = "Django и Django REST Framework"
-category_filepath = "thought-exercises/django-drf.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "System Design"
