@@ -1,6 +1,6 @@
 +++
 title = 'FastAPI'
-weight = 7
+weight = 5
 bookFlatSection = true
 bookToC = false
 bookHidden = true
