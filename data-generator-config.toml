@@ -80,7 +80,7 @@ name = "Типы данных и Коллекции"
 answers_filepath = "tech-questions/fundamentals/collections.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Асинхронность Многопоточность Многопроцессорность"
+name = "Многопоточность и Асинхронность"
 answers_filepath = "tech-questions/fundamentals/async-multiprocessing-threading.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -88,11 +88,11 @@ name = "FastAPI"
 answers_filepath = "tech-questions/fundamentals/fastapi.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Django и Django REST Fraemwork"
+name = "Django и Django REST Framework"
 answers_filepath = "tech-questions/fundamentals/django-drf.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "SQLAlchemy ORM и миграции"
+name = "ORM и миграции"
 answers_filepath = "tech-questions/fundamentals/orm-and-migrations.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -108,7 +108,7 @@ name = "NoSQL"
 answers_filepath = "tech-questions/fundamentals/nosql.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Docker, Docker Compose, Linux"
+name = "Docker, Linux, деплой"
 answers_filepath = "tech-questions/fundamentals/docker-linux.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -133,24 +133,14 @@ answers_filepath = "tech-questions/fundamentals/other.md"
 
 
 [[spreadsheet.livecoding_sheet.categories]]
-name = "SQL"
-category_filepath = "livecoding/tasks/sql/_index.md"
-task_path_prefix = "livecoding/tasks/sql/"
-
-[[spreadsheet.livecoding_sheet.categories]]
 name = "Python"
 category_filepath = "livecoding/tasks/python/_index.md"
 task_path_prefix = "livecoding/tasks/python/"
 
 [[spreadsheet.livecoding_sheet.categories]]
-name = "ORM"
-category_filepath = "livecoding/tasks/orm/_index.md"
-task_path_prefix = "livecoding/tasks/orm/"
-
-[[spreadsheet.livecoding_sheet.categories]]
-name = "Web"
-category_filepath = "livecoding/tasks/web/_index.md"
-task_path_prefix = "livecoding/tasks/web/"
+name = "SQL"
+category_filepath = "livecoding/tasks/sql/_index.md"
+task_path_prefix = "livecoding/tasks/sql/"
 
 [[spreadsheet.livecoding_sheet.categories]]
 name = "FastAPI"
@@ -166,7 +156,7 @@ name = "Опыт с технологиями"
 
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "SQL, базы данных, индексы, ORM и миграции"
+name = "SQL, базы данных, миграции"
 category_filepath = "thought-exercises/sql-databases.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
@@ -174,16 +164,12 @@ name = "ООП"
 category_filepath = "thought-exercises/OOP.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Асинхронность - Многопоточность - Многопроцессорность"
+name = "Многопоточность и Асинхронность"
 category_filepath = "thought-exercises/async-thread-multiprocess.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Docker - Docker Compose - Linux"
+name = "Docker, Linux, деплой"
 category_filepath = "thought-exercises/docker-docker-compose-linux.md"
-
-[[spreadsheet.thought_exercise_sheet.categories]]
-name = "Типы данных и Коллекции в Python"
-category_filepath = "thought-exercises/collections.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
 name = "Python Core"
@@ -198,19 +184,11 @@ name = "Web"
 category_filepath = "thought-exercises/web.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Микросервисы"
-category_filepath = "thought-exercises/microservices.md"
-
-[[spreadsheet.thought_exercise_sheet.categories]]
-name = "Логика"
-category_filepath = "thought-exercises/logic.md"
-
-[[spreadsheet.thought_exercise_sheet.categories]]
 name = "Брокеры сообщений и Celery"
 category_filepath = "thought-exercises/celery.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Django и Django REST Fraemwork"
+name = "Django и Django REST Framework"
 category_filepath = "thought-exercises/django-drf.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
