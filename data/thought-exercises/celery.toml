@@ -1,5 +1,5 @@
 [category]
-  id = 7
+  id = 6
   title = "Брокеры сообщений и Celery"
 
 [[exercises]]
