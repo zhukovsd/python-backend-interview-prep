@@ -1,6 +1,6 @@
 [category]
   id = 1
-  title = "SQL, базы данных, индексы, ORM и миграции"
+  title = "SQL, базы данных, миграции"
 
 [[exercises]]
   id = 1

@@ -1,6 +1,6 @@
 [category]
   id = 11
-  title = "SQLAlchemy ORM и миграции"
+  title = "ORM и миграции"
   popularity = 23.68
 
 [[questions]]

@@ -1,6 +1,6 @@
 [category]
-  id = 4
-  title = "Docker - Docker Compose - Linux"
+  id = 3
+  title = "Docker, Linux, деплой"
 
 [[exercises]]
   id = 1

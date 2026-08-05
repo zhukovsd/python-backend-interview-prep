@@ -1,7 +1,11 @@
 [category]
-  id = 11
+  id = 7
   title = "Брокеры сообщений и Celery"
 
 [[exercises]]
   id = 1
   exercise = "Как решить проблему неуспешного создания заказа через Kafka?"
+
+[[exercises]]
+  id = 2
+  exercise = "Что и почему стоит выбрать между frontend и сервисом товаров: REST или брокер сообщений?"
