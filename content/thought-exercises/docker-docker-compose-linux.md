@@ -1,6 +1,6 @@
 +++
-title = 'Docker - Docker Compose - Linux'
-weight = 4
+title = 'Docker, Linux и деплой'
+weight = 8
 bookFlatSection = true
 bookToC = false
 bookHidden = true
