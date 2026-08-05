@@ -1,6 +1,6 @@
 +++
 title = 'System Design'
-weight = 13
+weight = 9
 bookFlatSection = true
 bookToC = false
 bookHidden = true
