@@ -1,5 +1,5 @@
 +++
-title = 'Функции и Декораторы'
+title = 'Функции и декораторы'
 weight = 4
 bookFlatSection = true
 +++
