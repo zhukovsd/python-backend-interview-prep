@@ -80,7 +80,7 @@ name = "Типы данных и Коллекции"
 answers_filepath = "tech-questions/fundamentals/collections.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Многопоточность и Асинхронность"
+name = "Многопоточность и асинхронность"
 answers_filepath = "tech-questions/fundamentals/async-multiprocessing-threading.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -160,7 +160,7 @@ name = "Python Core"
 category_filepath = "thought-exercises/python-core.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
-name = "Многопоточность и Асинхронность"
+name = "Многопоточность и асинхронность"
 category_filepath = "thought-exercises/async-thread-multiprocess.md"
 
 [[spreadsheet.thought_exercise_sheet.categories]]
