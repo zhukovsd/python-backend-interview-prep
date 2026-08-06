@@ -1,5 +1,5 @@
 +++
-title = 'Итераторы и Генераторы'
+title = 'Итераторы и генераторы'
 weight = 6
 bookFlatSection = true
 +++
