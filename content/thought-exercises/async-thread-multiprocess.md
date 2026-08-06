@@ -1,5 +1,5 @@
 +++
-title = 'Многопоточность и Асинхронность'
+title = 'Многопоточность и асинхронность'
 weight = 2
 bookFlatSection = true
 bookToC = false
