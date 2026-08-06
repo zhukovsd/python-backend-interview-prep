@@ -1,5 +1,5 @@
 +++
-title = 'Типы данных и Коллекции'
+title = 'Типы данных и коллекции'
 weight = 7
 bookFlatSection = true
 +++
