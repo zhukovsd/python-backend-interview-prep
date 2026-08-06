@@ -64,7 +64,7 @@ name = "Паттерны"
 answers_filepath = "tech-questions/fundamentals/patterns.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Функции и Декораторы"
+name = "Функции и декораторы"
 answers_filepath = "tech-questions/fundamentals/functions-and-decorators.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -72,11 +72,11 @@ name = "Сборщик мусора и GiL"
 answers_filepath = "tech-questions/fundamentals/gc-gil.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Итераторы и Генераторы"
+name = "Итераторы и генераторы"
 answers_filepath = "tech-questions/fundamentals/iterators-generators.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "Типы данных и Коллекции"
+name = "Типы данных и коллекции"
 answers_filepath = "tech-questions/fundamentals/collections.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
@@ -112,7 +112,7 @@ name = "Docker, Linux, деплой"
 answers_filepath = "tech-questions/fundamentals/docker-linux.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
-name = "WEB"
+name = "Web"
 answers_filepath = "tech-questions/fundamentals/web.md"
 
 [[spreadsheet.tech_answer_sheet.categories]]
