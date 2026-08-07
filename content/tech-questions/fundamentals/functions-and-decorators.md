@@ -4,6 +4,6 @@ weight = 4
 bookFlatSection = true
 +++
 
-## Функции и Декораторы
+## Функции и декораторы
 
 {{< tech/answers >}}
