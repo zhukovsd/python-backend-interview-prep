@@ -4,6 +4,6 @@ weight = 7
 bookFlatSection = true
 +++
 
-## Типы данных и Коллекции
+## Типы данных и коллекции
 
 {{< tech/answers >}}
