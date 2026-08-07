@@ -4,6 +4,6 @@ weight = 17
 bookFlatSection = true
 +++
 
-## WEB
+## Web
 
 {{< tech/answers >}}
