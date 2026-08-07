@@ -4,6 +4,6 @@ weight = 6
 bookFlatSection = true
 +++
 
-## Итераторы и Генераторы
+## Итераторы и генераторы
 
 {{< tech/answers >}}
